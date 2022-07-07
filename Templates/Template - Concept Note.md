@@ -4,4 +4,3 @@ tags: concept
 aliases:
 ---
 
-Notes to encapsulate a concept

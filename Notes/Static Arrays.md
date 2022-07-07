@@ -6,4 +6,4 @@ aliases:
 
 Static Arrays are arrays with a fixed size.
 They are available in [[low-level languages]] like [[C++]]
-This gives the programmer more fine grain control over memory management which can be useful 
+This gives the programmer more fine grain control over memory management which can be useful depending on the situation.
