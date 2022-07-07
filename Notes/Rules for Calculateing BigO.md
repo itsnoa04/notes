@@ -38,8 +38,10 @@ This is similar to O(2n) or [[O(n)]]
 const fun = (a,b) => {
 	for(i in a){
 		for(i in b){
-			console.log(a,b)
+			console.log(a[i],b[j])
 		}
 	}
 }
+
+fun("life","death")
 ```

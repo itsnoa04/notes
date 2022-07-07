@@ -6,6 +6,7 @@
       {
         "id": "d8f1f3b4444ef2d5",
         "type": "leaf",
+        "dimension": 40.705128205128204,
         "state": {
           "type": "markdown",
           "state": {
@@ -19,6 +20,7 @@
       {
         "id": "122e593816891506",
         "type": "leaf",
+        "dimension": 41.28205128205128,
         "state": {
           "type": "markdown",
           "state": {
@@ -32,6 +34,7 @@
       {
         "id": "467a058bc1b8e43c",
         "type": "leaf",
+        "dimension": 18.01282051282051,
         "state": {
           "type": "graph",
           "state": {}
