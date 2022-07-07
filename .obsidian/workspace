@@ -4,37 +4,8 @@
     "type": "split",
     "children": [
       {
-        "id": "122e593816891506",
-        "type": "leaf",
-        "dimension": 37.69230769230769,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Notes/Types of Arrays.md",
-            "mode": "source",
-            "source": false
-          }
-        },
-        "group": "ed9a5d139d72112b"
-      },
-      {
-        "id": "8acf11ce293cde33",
-        "type": "leaf",
-        "dimension": 30.320512820512818,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Notes/Types of Arrays.md",
-            "mode": "preview",
-            "source": false
-          }
-        },
-        "group": "ed9a5d139d72112b"
-      },
-      {
         "id": "75b374b3040343fc",
         "type": "leaf",
-        "dimension": 31.987179487179485,
         "state": {
           "type": "graph",
           "state": {}
@@ -78,7 +49,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "f02950b6eb84c564",
@@ -94,7 +66,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Types of Arrays.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +83,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "122e593816891506",
+  "active": "75b374b3040343fc",
   "lastOpenFiles": [
     "Notes/Types of Arrays.md",
     "Notes/Array Methods.md",
