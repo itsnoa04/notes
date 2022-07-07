@@ -4,7 +4,7 @@ tags: concept interview-prep
 aliases: pop
 ---
 
-adds element to the end of the array 
+removes element from the end of the array
 
 Syntax:
 ```js

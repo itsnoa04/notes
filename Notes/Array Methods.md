@@ -5,8 +5,8 @@ aliases:
 ---
 
 [[Array Push|push]]
-pop -> removes element from the end of the array -> [[O(1)]]
-unshift -> adds an element to the begining of the array -> [[O(n)]]
+[[Array pop|pop]]
+unshift
 splice -> adds one or deletes several elements from specified index -> [[O(n)]]
 
 syntax:

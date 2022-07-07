@@ -4,11 +4,11 @@ tags: concept interview-prep
 aliases: unshift
 ---
 
-adds element to the end of the array 
+adds an element to the begining of the array
 
 Syntax:
 ```js
-	array.pop()
+	array.unshift("element")
 ```
 
-Time Complexity : [[O(1)]]
+Time Complexity : [[O(n)]]

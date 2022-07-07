@@ -23,7 +23,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Array.md",
+            "file": "Notes/Array Methods.md",
             "mode": "source",
             "source": false
           }
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Array.md",
+                "file": "Notes/Array Methods.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,11 +103,11 @@
   },
   "active": "74f5f11f7c19f4b0",
   "lastOpenFiles": [
-    "Notes/Array.md",
+    "Notes/Array Methods.md",
     "Notes/Array Unshift.md",
     "Notes/Array pop.md",
+    "Notes/Array.md",
     "Notes/Array Push.md",
-    "Notes/Array Methods.md",
     "Notes/Division of memory in programming languages.md",
     "Notes/Big O Asymptotic Analysis.md",
     "Notes/Algorithms.md",
