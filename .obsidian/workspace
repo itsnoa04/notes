@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Untitled.md",
+            "file": "Notes/Types of bigO notations.md",
             "mode": "source",
             "source": false
           }
@@ -24,7 +24,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Untitled.md",
+            "file": "Notes/Types of bigO notations.md",
             "mode": "preview",
             "source": false
           }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Untitled.md",
+                "file": "Notes/Types of bigO notations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
   },
   "active": "d8f1f3b4444ef2d5",
   "lastOpenFiles": [
-    "Notes/Untitled.md",
+    "Notes/Types of bigO notations.md",
     "Notes/Big O Asymptotic Analysis.md",
     "Notes/Space Complexity.md",
     "Notes/O(n^2).md",
