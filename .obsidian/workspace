@@ -6,33 +6,35 @@
       {
         "id": "122e593816891506",
         "type": "leaf",
-        "dimension": 34.61538461538461,
+        "dimension": 37.69230769230769,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Array splice.md",
+            "file": "Notes/Types of Arrays.md",
             "mode": "source",
             "source": false
           }
-        }
+        },
+        "group": "ed9a5d139d72112b"
       },
       {
-        "id": "74f5f11f7c19f4b0",
+        "id": "8acf11ce293cde33",
         "type": "leaf",
-        "dimension": 36.6025641025641,
+        "dimension": 30.320512820512818,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Array Methods.md",
-            "mode": "source",
+            "file": "Notes/Types of Arrays.md",
+            "mode": "preview",
             "source": false
           }
-        }
+        },
+        "group": "ed9a5d139d72112b"
       },
       {
         "id": "75b374b3040343fc",
         "type": "leaf",
-        "dimension": 28.78205128205128,
+        "dimension": 31.987179487179485,
         "state": {
           "type": "graph",
           "state": {}
@@ -92,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Array Methods.md",
+                "file": "Notes/Types of Arrays.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,17 +112,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "74f5f11f7c19f4b0",
+  "active": "122e593816891506",
   "lastOpenFiles": [
+    "Notes/Types of Arrays.md",
     "Notes/Array Methods.md",
+    "Notes/Untitled.md",
     "Notes/Array splice.md",
-    "Notes/Array Push.md",
     "Notes/Array Unshift.md",
+    "Notes/Array Push.md",
     "Notes/Array pop.md",
     "Notes/Array.md",
     "Notes/Division of memory in programming languages.md",
-    "Notes/Big O Asymptotic Analysis.md",
-    "Notes/Algorithms.md",
-    "Notes/List of Data Structures.md"
+    "Notes/Big O Asymptotic Analysis.md"
   ]
 }
