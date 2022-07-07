@@ -9,11 +9,25 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Efficiant Performance.md",
+            "file": "Notes/Rules for Calculateing BigO.md",
             "mode": "source",
             "source": false
           }
-        }
+        },
+        "group": "7e5063523b285bf0"
+      },
+      {
+        "id": "122e593816891506",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Notes/Rules for Calculateing BigO.md",
+            "mode": "preview",
+            "source": false
+          }
+        },
+        "group": "7e5063523b285bf0"
       },
       {
         "id": "467a058bc1b8e43c",
@@ -77,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Efficiant Performance.md",
+                "file": "Notes/Rules for Calculateing BigO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,17 +109,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d8f1f3b4444ef2d5",
+  "active": "122e593816891506",
   "lastOpenFiles": [
+    "Notes/Rules for Calculateing BigO.md",
+    "Notes/Readability.md",
+    "Notes/Runtime.md",
+    "Notes/O(1).md",
+    "Notes/Efficient memory utilisation.md",
     "Notes/Efficiant Performance.md",
     "Templates/Template - Problem Note.md",
-    "Notes/Runtime.md",
     "Notes/Space Complexity.md",
     "Templates/Template - MOC.md",
-    "README.md",
-    "Notes/Rules for Calculateing BigO.md",
-    "Notes/Big O Asymptotic Analysis.md",
-    "Notes/O(n).md",
-    "Notes/O(1).md"
+    "README.md"
   ]
 }
