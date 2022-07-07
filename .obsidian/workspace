@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/List of Data Structures.md",
+            "file": "Notes/Array.md",
             "mode": "source",
             "source": false
           }
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/List of Data Structures.md",
+                "file": "Notes/Array.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,15 +99,15 @@
   },
   "active": "122e593816891506",
   "lastOpenFiles": [
+    "Notes/Array.md",
+    "Notes/Big O Asymptotic Analysis.md",
+    "Notes/Algorithms.md",
     "Notes/List of Data Structures.md",
     "Notes/O(n).md",
     "Notes/Memory.md",
     "Notes/Causes of useage of memory in a program.md",
-    "Notes/Big O Asymptotic Analysis.md",
     "Notes/Division of memory in programming languages.md",
-    "Notes/Array.md",
     "Notes/DataStructures.md",
-    "Notes/Efficient memory utilisation.md",
-    "Notes/Space Complexity.md"
+    "Notes/Efficient memory utilisation.md"
   ]
 }
