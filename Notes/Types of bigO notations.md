@@ -1,12 +1,10 @@
 ---
 %% created: 2022-07-07 18:31 %%
-tags: evergreen-notes interview-prep
+tags: moc interview-prep
 aliases:
 ---
 
-Notes to encapsulate a concept
-
-[[Big O]] notation are of different types based on efficiency 
+[[Big O Asymptotic Analysis|Big O]] notation are of different types based on efficiency 
 
 ![[Pasted image 20220707120259.png]]
 
