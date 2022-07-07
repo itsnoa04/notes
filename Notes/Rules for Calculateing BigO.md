@@ -11,7 +11,6 @@ Rules of calculating [[Big O Asymptotic Analysis|Big O]] are as follows:
 	if the calculated bigO is something like O(2n) or O(n/2) then we ignore the constant and write it as O(n)
 3. Different Inputs are to be calculated useing different symbols
 	Consider the following code.
-	
 ```js
 
 const printElementsFromBothArrays = (arrayA, arrayB) => {
@@ -30,4 +29,4 @@ arrayB = [1,2,3,4]
 printElementsFromBothArrays(arrayA,arrayB)
 
 ```
-
+	
