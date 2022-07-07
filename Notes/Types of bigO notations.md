@@ -11,10 +11,10 @@ Notes to encapsulate a concept
 ![[Pasted image 20220707120259.png]]
 
 They are 
-	1. [[O(1)]]
-	2. [[O(n)]]
-	3. [[O(logn)]]
-	4. [[O(nlogn)]]
-	5. [[O(n^2)]]
-	6. [[O(2^n)]]
-	7. [[O(n!)]]
+	1. ![[O(1)]]
+	2. ![[O(n)]]
+	3. ![[O(logn)]]
+	4. ![[O(nlogn)]]
+	5. ![[O(n^2)]]
+	6. ![[O(2^n)]]
+	7. ![[O(n!)]]

@@ -4,7 +4,7 @@ tags: concept interview-prep
 aliases: constant-time
 ---
 
-O(1) is a measure in [[Big O Asymptotic Analysis]]
+O(1) is one of the [[Types of bigO notations]]
 
 O(1) is known as constant time
 no of loops = constant

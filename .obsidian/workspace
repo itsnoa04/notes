@@ -6,11 +6,11 @@
       {
         "id": "d8f1f3b4444ef2d5",
         "type": "leaf",
-        "dimension": 41.28205128205128,
+        "dimension": 13.012820512820515,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Types of bigO notations.md",
+            "file": "Notes/Scalability.md",
             "mode": "source",
             "source": false
           }
@@ -20,11 +20,11 @@
       {
         "id": "122e593816891506",
         "type": "leaf",
-        "dimension": 29.48717948717949,
+        "dimension": 54.74358974358975,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Types of bigO notations.md",
+            "file": "Notes/Scalability.md",
             "mode": "preview",
             "source": false
           }
@@ -34,7 +34,7 @@
       {
         "id": "467a058bc1b8e43c",
         "type": "leaf",
-        "dimension": 29.230769230769234,
+        "dimension": 32.243589743589745,
         "state": {
           "type": "graph",
           "state": {}
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Types of bigO notations.md",
+                "file": "Notes/Scalability.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,17 +112,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d8f1f3b4444ef2d5",
+  "active": "122e593816891506",
   "lastOpenFiles": [
-    "Notes/Types of bigO notations.md",
+    "Notes/Scalability.md",
     "Notes/Big O Asymptotic Analysis.md",
-    "Notes/Space Complexity.md",
+    "Notes/Types of bigO notations.md",
     "Notes/O(n^2).md",
-    "Notes/Rules for Calculateing BigO.md",
+    "Notes/O(n).md",
     "Notes/O(1).md",
+    "Notes/Space Complexity.md",
+    "Notes/Rules for Calculateing BigO.md",
     "Notes/Readability.md",
-    "Notes/Runtime.md",
-    "Notes/Efficient memory utilisation.md",
-    "Notes/Efficiant Performance.md"
+    "Notes/Runtime.md"
   ]
 }

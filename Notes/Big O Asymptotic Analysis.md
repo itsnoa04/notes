@@ -6,6 +6,7 @@ aliases: Big O
 
 Big O lets us judge on the scalability of code.
 
+![[Types of bigO notations]]
 
 
 Big O denotes slowdown of code as number of inputs increases or [[Scalability|Algorithmic-Efficiency]].

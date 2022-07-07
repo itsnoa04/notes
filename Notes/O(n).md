@@ -4,7 +4,7 @@ tags: concept interview-prep
 aliases: linear-time
 ---
 
-O(n) is a measure in [[Big O Asymptotic Analysis]]
+O(n) is one of the [[Types of bigO notations]]
 
 O(n) is known as linear-time
 the no. of operations ∝ the no. of loops
