@@ -32,11 +32,14 @@ here arrayA and arrayB are to be calculated with tho different letters
 
 the big O notation of the above code is O(a+b) as the loops are consecutive
 
-This is simila
+This is similar to O(2n) or [[O(n)]]
 
 ```js
 const fun = (a,b) => {
 	for(i in a){
+		for(i in b){
+			console.log(a,b)
+		}
 	}
 }
 ```
