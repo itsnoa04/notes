@@ -4,5 +4,8 @@ tags: concept interview-prep
 aliases:
 ---
 
-Time complexity refers to memory utilization per input element.
+Space complexity refers to memory utilization per input element.
+
+
+
 It can be measured using [[Big O Asymptotic Analysis]].

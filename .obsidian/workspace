@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Three pillars of programming.md",
+            "file": "Notes/Memory.md",
             "mode": "source",
             "source": false
           }
@@ -24,7 +24,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Three pillars of programming.md",
+            "file": "Notes/Memory.md",
             "mode": "preview",
             "source": false
           }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Three pillars of programming.md",
+                "file": "Notes/Memory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,15 +114,15 @@
   },
   "active": "d8f1f3b4444ef2d5",
   "lastOpenFiles": [
-    "Notes/Three pillars of programming.md",
-    "Notes/Big O Asymptotic Analysis.md",
+    "Notes/Memory.md",
+    "Notes/Good Code.md",
     "Notes/Efficient memory utilisation.md",
     "Notes/Efficiant Performance.md",
-    "Notes/Good Code.md",
-    "Notes/Scalability.md",
-    "Notes/O(n!).md",
-    "Notes/O(n).md",
-    "Notes/O(n^2).md",
-    "Notes/O(1).md"
+    "Notes/DataStructures.md",
+    "Notes/Big O Asymptotic Analysis.md",
+    "Notes/Algorithms.md",
+    "Notes/Space Complexity.md",
+    "Notes/Three pillars of programming.md",
+    "Notes/Scalability.md"
   ]
 }

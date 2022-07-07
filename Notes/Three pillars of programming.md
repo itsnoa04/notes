@@ -8,5 +8,7 @@ The three pillars of programming refers to the three pillars of writeing [[Good 
 
 They are :
 1. [[Readability]]
-2. [[Speed]]
-3. [[Memmory]]
+2. [[Efficiant Performance|Speed]]
+3. [[Efficient memory utilisation|Memmory]]
+
+Speed and memmory are usually inversly proportional and are given importance based on scope of project.
