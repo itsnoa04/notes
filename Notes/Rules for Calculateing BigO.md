@@ -30,4 +30,13 @@ printElementsFromBothArrays(arrayA,arrayB)
 
 here arrayA and arrayB are to be calculated with tho different letters
 
-4. 
+the big O notation of the above code is O(a+b) as the loops are consecutive
+
+This is simila
+
+```js
+const fun = (a,b) => {
+	for(i in a){
+	}
+}
+```
