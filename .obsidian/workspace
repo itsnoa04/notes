@@ -6,7 +6,7 @@
       {
         "id": "122e593816891506",
         "type": "leaf",
-        "dimension": 61.090909090909086,
+        "dimension": 48.52564102564102,
         "state": {
           "type": "markdown",
           "state": {
@@ -19,7 +19,7 @@
       {
         "id": "74f5f11f7c19f4b0",
         "type": "leaf",
-        "dimension": 38.90909090909091,
+        "dimension": 51.47435897435897,
         "state": {
           "type": "graph",
           "state": {}
@@ -79,6 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Notes/O(n).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,10 +97,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "74f5f11f7c19f4b0",
+  "active": "122e593816891506",
   "lastOpenFiles": [
-    "Notes/DataStructures.md",
     "Notes/O(n).md",
+    "Notes/DataStructures.md",
     "Notes/Big O Asymptotic Analysis.md",
     "Notes/Causes of useage of memory in a program.md",
     "Notes/Memory.md",
