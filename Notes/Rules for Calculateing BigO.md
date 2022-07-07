@@ -63,4 +63,6 @@ const fun = (a) => {
 fun("death")
 ```
 
-This code has O(1), O(n) 
+This code has O(1), O(n) and O(n^2) as its Big O notation but since O(n^2) is the slowest we represent the big O as O(n^2).
+
+O(1) and O(n) are dropped
