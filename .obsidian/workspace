@@ -6,7 +6,7 @@
       {
         "id": "122e593816891506",
         "type": "leaf",
-        "dimension": 32.243589743589745,
+        "dimension": 61.090909090909086,
         "state": {
           "type": "markdown",
           "state": {
@@ -17,22 +17,9 @@
         }
       },
       {
-        "id": "d9b0ff89f98f2bd7",
-        "type": "leaf",
-        "dimension": 12.82051282051282,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Notes/DataStructures.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
         "id": "74f5f11f7c19f4b0",
         "type": "leaf",
-        "dimension": 54.93589743589744,
+        "dimension": 38.90909090909091,
         "state": {
           "type": "graph",
           "state": {}
@@ -92,7 +79,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/DataStructures.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +96,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d9b0ff89f98f2bd7",
+  "active": "74f5f11f7c19f4b0",
   "lastOpenFiles": [
     "Notes/DataStructures.md",
     "Notes/O(n).md",
