@@ -6,11 +6,11 @@
       {
         "id": "122e593816891506",
         "type": "leaf",
-        "dimension": 48.52564102564102,
+        "dimension": 78.2051282051282,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Untitled.md",
+            "file": "Notes/List of Data Structures.md",
             "mode": "source",
             "source": false
           }
@@ -19,7 +19,7 @@
       {
         "id": "74f5f11f7c19f4b0",
         "type": "leaf",
-        "dimension": 51.47435897435897,
+        "dimension": 21.794871794871796,
         "state": {
           "type": "graph",
           "state": {}
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Untitled.md",
+                "file": "Notes/List of Data Structures.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,15 +99,15 @@
   },
   "active": "122e593816891506",
   "lastOpenFiles": [
-    "Notes/Untitled.md",
+    "Notes/List of Data Structures.md",
     "Notes/O(n).md",
-    "Notes/DataStructures.md",
-    "Notes/Big O Asymptotic Analysis.md",
-    "Notes/Causes of useage of memory in a program.md",
     "Notes/Memory.md",
+    "Notes/Causes of useage of memory in a program.md",
+    "Notes/Big O Asymptotic Analysis.md",
+    "Notes/Division of memory in programming languages.md",
+    "Notes/Array.md",
+    "Notes/DataStructures.md",
     "Notes/Efficient memory utilisation.md",
-    "Notes/Space Complexity.md",
-    "Highlights/premature optimization is the root of all evil.md",
-    "Templates/Template - Quote.md"
+    "Notes/Space Complexity.md"
   ]
 }
