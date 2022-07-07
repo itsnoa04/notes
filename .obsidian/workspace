@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/O(n).md",
+            "file": "Notes/Untitled.md",
             "mode": "source",
             "source": false
           }
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/O(n).md",
+                "file": "Notes/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,6 +99,7 @@
   },
   "active": "122e593816891506",
   "lastOpenFiles": [
+    "Notes/Untitled.md",
     "Notes/O(n).md",
     "Notes/DataStructures.md",
     "Notes/Big O Asymptotic Analysis.md",
@@ -107,7 +108,6 @@
     "Notes/Efficient memory utilisation.md",
     "Notes/Space Complexity.md",
     "Highlights/premature optimization is the root of all evil.md",
-    "Templates/Template - Quote.md",
-    "Notes/Division of memory in programming languages.md"
+    "Templates/Template - Quote.md"
   ]
 }

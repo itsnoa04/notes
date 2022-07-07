@@ -1,12 +1,20 @@
 {
-  "collapse-filter": true,
+  "collapse-filter": false,
   "search": "",
   "showTags": true,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": false,
   "collapse-color-groups": true,
-  "colorGroups": [],
+  "colorGroups": [
+    {
+      "query": "tag:interview-prep",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
+      }
+    }
+  ],
   "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
@@ -17,6 +25,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.45050811767578275,
+  "scale": 0.4505081176757838,
   "close": true
 }
