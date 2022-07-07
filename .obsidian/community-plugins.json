@@ -1,4 +1,6 @@
 [
   "obsidian-languagetool-plugin",
-  "obsidian-git"
+  "obsidian-git",
+  "execute-code",
+  "cm-editor-syntax-highlight-obsidian"
 ]
