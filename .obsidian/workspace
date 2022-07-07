@@ -6,11 +6,11 @@
       {
         "id": "d8f1f3b4444ef2d5",
         "type": "leaf",
-        "dimension": 13.012820512820515,
+        "dimension": 31.28205128205128,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Scalability.md",
+            "file": "Notes/O(1).md",
             "mode": "source",
             "source": false
           }
@@ -20,11 +20,11 @@
       {
         "id": "122e593816891506",
         "type": "leaf",
-        "dimension": 54.74358974358975,
+        "dimension": 36.666666666666664,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Scalability.md",
+            "file": "Notes/O(1).md",
             "mode": "preview",
             "source": false
           }
@@ -34,7 +34,7 @@
       {
         "id": "467a058bc1b8e43c",
         "type": "leaf",
-        "dimension": 32.243589743589745,
+        "dimension": 32.05128205128205,
         "state": {
           "type": "graph",
           "state": {}
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Scalability.md",
+                "file": "Notes/O(1).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,17 +112,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "122e593816891506",
+  "active": "d8f1f3b4444ef2d5",
   "lastOpenFiles": [
+    "Notes/O(1).md",
+    "Notes/Good Code.md",
+    "Notes/O(n).md",
     "Notes/Scalability.md",
     "Notes/Big O Asymptotic Analysis.md",
     "Notes/Types of bigO notations.md",
     "Notes/O(n^2).md",
-    "Notes/O(n).md",
-    "Notes/O(1).md",
     "Notes/Space Complexity.md",
     "Notes/Rules for Calculateing BigO.md",
-    "Notes/Readability.md",
-    "Notes/Runtime.md"
+    "Notes/Readability.md"
   ]
 }
