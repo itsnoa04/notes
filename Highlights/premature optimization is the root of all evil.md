@@ -1,4 +1,7 @@
-"Premature optimization is the root of all Evil"
+---
+%% created: 2022-07-07 19:40 %%
+tags: quote
+aliases:
+---
 
-This has reference to
--
+"Premature optimization is the root of all Evil"

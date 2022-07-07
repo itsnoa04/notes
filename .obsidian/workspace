@@ -6,13 +6,36 @@
       {
         "id": "122e593816891506",
         "type": "leaf",
+        "dimension": 32.243589743589745,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Highlights/premature optimization is the root of all evil.md",
+            "file": "Notes/O(n).md",
             "mode": "source",
             "source": false
           }
+        }
+      },
+      {
+        "id": "d9b0ff89f98f2bd7",
+        "type": "leaf",
+        "dimension": 12.82051282051282,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Notes/DataStructures.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "74f5f11f7c19f4b0",
+        "type": "leaf",
+        "dimension": 54.93589743589744,
+        "state": {
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -69,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Highlights/premature optimization is the root of all evil.md",
+                "file": "Notes/DataStructures.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,17 +110,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "122e593816891506",
+  "active": "d9b0ff89f98f2bd7",
   "lastOpenFiles": [
-    "Highlights/premature optimization is the root of all evil.md",
+    "Notes/DataStructures.md",
     "Notes/O(n).md",
+    "Notes/Big O Asymptotic Analysis.md",
     "Notes/Causes of useage of memory in a program.md",
-    "Notes/Division of memory in programming languages.md",
-    "Notes/O(n!).md",
     "Notes/Memory.md",
-    "Notes/Three pillars of programming.md",
-    "Notes/Heap.md",
-    "Notes/Stack.md",
-    "Notes/Good Code.md"
+    "Notes/Efficient memory utilisation.md",
+    "Notes/Space Complexity.md",
+    "Highlights/premature optimization is the root of all evil.md",
+    "Templates/Template - Quote.md",
+    "Notes/Division of memory in programming languages.md"
   ]
 }

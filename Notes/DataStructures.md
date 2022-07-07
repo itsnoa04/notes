@@ -4,4 +4,4 @@ tags: concept interview-prep
 aliases:
 ---
 
-Data Structures are ways to store [[data]]
+Data Structures are ways to store [[data]] for the purpose of optimization.
