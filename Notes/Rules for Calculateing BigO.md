@@ -14,10 +14,20 @@ Rules of calculating [[Big O Asymptotic Analysis|Big O]] are as follows:
 	
 ```js
 
+const printElementsFromBothArrays = (arrayA, arrayB) => {
+	for ( i in arrayA ){
+		console.log(arrayA[i])
+	}
+	
+	for ( i in arrayB ){
+		console.log(arrayB[i])
+	}
+}
+
 arrayA = ["a","b","c","d"]
 arrayB = [1,2,3,4]
 
-const printBothArrays = (arra) => {
+printElementsFromBothArrays(arrayA,arrayB)
 
-}
+```
 
