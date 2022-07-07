@@ -6,11 +6,11 @@
       {
         "id": "122e593816891506",
         "type": "leaf",
-        "dimension": 35.51282051282051,
+        "dimension": 35.57692307692308,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Array Unshift.md",
+            "file": "Notes/Array splice.md",
             "mode": "source",
             "source": false
           }
@@ -19,7 +19,7 @@
       {
         "id": "74f5f11f7c19f4b0",
         "type": "leaf",
-        "dimension": 12.82051282051282,
+        "dimension": 35.38461538461539,
         "state": {
           "type": "markdown",
           "state": {
@@ -32,7 +32,7 @@
       {
         "id": "75b374b3040343fc",
         "type": "leaf",
-        "dimension": 51.66666666666667,
+        "dimension": 29.03846153846154,
         "state": {
           "type": "graph",
           "state": {}
@@ -92,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Array Methods.md",
+                "file": "Notes/Array splice.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,17 +110,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "74f5f11f7c19f4b0",
+  "active": "122e593816891506",
   "lastOpenFiles": [
-    "Notes/Array Methods.md",
+    "Notes/Array splice.md",
     "Notes/Array Unshift.md",
+    "Notes/Array Methods.md",
     "Notes/Array pop.md",
     "Notes/Array.md",
     "Notes/Array Push.md",
     "Notes/Division of memory in programming languages.md",
     "Notes/Big O Asymptotic Analysis.md",
     "Notes/Algorithms.md",
-    "Notes/List of Data Structures.md",
-    "Notes/O(n).md"
+    "Notes/List of Data Structures.md"
   ]
 }
