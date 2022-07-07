@@ -9,7 +9,31 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Array Unshift.md",
+            "file": "Notes/Types of Arrays.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "681460d86fcc6cee",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Notes/Static Arrays.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "d0f49c4870fbbcf9",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Notes/Dynamic Arrays.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Array Unshift.md",
+                "file": "Notes/Static Arrays.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,17 +111,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "75b374b3040343fc",
+  "active": "681460d86fcc6cee",
   "lastOpenFiles": [
+    "Notes/Static Arrays.md",
+    "Notes/Types of Arrays.md",
+    "Notes/Dynamic Arrays.md",
     "Notes/Array Unshift.md",
     "Notes/Array splice.md",
     "Notes/Array.md",
     "Notes/Big O Asymptotic Analysis.md",
-    "Notes/Types of Arrays.md",
     "Notes/Array Methods.md",
     "Notes/Untitled.md",
-    "Notes/Array Push.md",
-    "Notes/Array pop.md",
-    "Notes/Division of memory in programming languages.md"
+    "Notes/Array Push.md"
   ]
 }

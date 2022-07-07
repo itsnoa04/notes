@@ -7,4 +7,4 @@ aliases:
 There are 2 ytpes of [[Array]]
 
 - [[Static Arrays]]
-- [[Dynamic ]]
+- [[Dynamic Arrays]]
