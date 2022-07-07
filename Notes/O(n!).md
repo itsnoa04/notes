@@ -13,4 +13,4 @@ the ! no. of operations ∝ the no. of loops
 
 O(n!) is quite rare 
 
-Useage of O(n) is fair.
+O(n!) should not be used when writeing a program
