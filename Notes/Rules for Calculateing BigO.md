@@ -12,7 +12,6 @@ Rules of calculating [[Big O Asymptotic Analysis|Big O]] are as follows:
 3. Different Inputs are to be calculated useing different symbols
 	Consider the following code.
 ```js
-
 const printElementsFromBothArrays = (arrayA, arrayB) => {
 	for ( i in arrayA ){
 		console.log(arrayA[i])
@@ -27,6 +26,8 @@ arrayA = ["a","b","c","d"]
 arrayB = [1,2,3,4]
 
 printElementsFromBothArrays(arrayA,arrayB)
-
 ```
-- here 
+
+here arrayA and arrayB are to be calculated with tho different letters
+
+4. 
