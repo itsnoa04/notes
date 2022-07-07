@@ -6,7 +6,7 @@
       {
         "id": "122e593816891506",
         "type": "leaf",
-        "dimension": 35.57692307692308,
+        "dimension": 34.61538461538461,
         "state": {
           "type": "markdown",
           "state": {
@@ -19,7 +19,7 @@
       {
         "id": "74f5f11f7c19f4b0",
         "type": "leaf",
-        "dimension": 35.38461538461539,
+        "dimension": 36.6025641025641,
         "state": {
           "type": "markdown",
           "state": {
@@ -32,7 +32,7 @@
       {
         "id": "75b374b3040343fc",
         "type": "leaf",
-        "dimension": 29.03846153846154,
+        "dimension": 28.78205128205128,
         "state": {
           "type": "graph",
           "state": {}
@@ -92,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Array splice.md",
+                "file": "Notes/Array Methods.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,14 +110,14 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "122e593816891506",
+  "active": "74f5f11f7c19f4b0",
   "lastOpenFiles": [
-    "Notes/Array splice.md",
-    "Notes/Array Unshift.md",
     "Notes/Array Methods.md",
+    "Notes/Array splice.md",
+    "Notes/Array Push.md",
+    "Notes/Array Unshift.md",
     "Notes/Array pop.md",
     "Notes/Array.md",
-    "Notes/Array Push.md",
     "Notes/Division of memory in programming languages.md",
     "Notes/Big O Asymptotic Analysis.md",
     "Notes/Algorithms.md",

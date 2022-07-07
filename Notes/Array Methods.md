@@ -3,13 +3,14 @@
 tags: concept interview-prep
 aliases:
 ---
+Array Methods are functions that can modift [[Array]]
 
 [[Array Push|push]]
 [[Array pop|pop]]
 [[Array Unshift|unshift]]
-splice -> adds one or deletes several elements from specified index -> [[O(n)]]
+[[splice ]]
 
 syntax:
 	Array.splice[start index, delete count, elements to add]
 
-if dele
+if d
