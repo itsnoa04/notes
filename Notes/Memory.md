@@ -6,4 +6,3 @@ aliases:
 
 
 Memory refers to the RAM of the system
-

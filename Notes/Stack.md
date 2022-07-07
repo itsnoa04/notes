@@ -1,0 +1,1 @@
+Stack handles [[function]] calls

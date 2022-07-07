@@ -6,11 +6,11 @@
       {
         "id": "d8f1f3b4444ef2d5",
         "type": "leaf",
-        "dimension": 31.28205128205128,
+        "dimension": 33.71794871794872,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Memory.md",
+            "file": "Notes/Causes of useage of memory in a program.md",
             "mode": "source",
             "source": false
           }
@@ -20,11 +20,11 @@
       {
         "id": "122e593816891506",
         "type": "leaf",
-        "dimension": 36.666666666666664,
+        "dimension": 28.46153846153846,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Memory.md",
+            "file": "Notes/Causes of useage of memory in a program.md",
             "mode": "preview",
             "source": false
           }
@@ -34,7 +34,7 @@
       {
         "id": "467a058bc1b8e43c",
         "type": "leaf",
-        "dimension": 32.05128205128205,
+        "dimension": 37.82051282051282,
         "state": {
           "type": "graph",
           "state": {}
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Memory.md",
+                "file": "Notes/Causes of useage of memory in a program.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,15 +114,15 @@
   },
   "active": "d8f1f3b4444ef2d5",
   "lastOpenFiles": [
+    "Notes/Causes of useage of memory in a program.md",
+    "Notes/Division of memory in programming languages.md",
+    "Notes/O(n!).md",
     "Notes/Memory.md",
+    "Notes/Three pillars of programming.md",
+    "Notes/Heap.md",
+    "Notes/Stack.md",
     "Notes/Good Code.md",
     "Notes/Efficient memory utilisation.md",
-    "Notes/Efficiant Performance.md",
-    "Notes/DataStructures.md",
-    "Notes/Big O Asymptotic Analysis.md",
-    "Notes/Algorithms.md",
-    "Notes/Space Complexity.md",
-    "Notes/Three pillars of programming.md",
-    "Notes/Scalability.md"
+    "Notes/Efficiant Performance.md"
   ]
 }
