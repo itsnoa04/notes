@@ -6,8 +6,12 @@ aliases: linear-time
 
 O(n) is one of the [[Types of bigO notations]]
 
+For [[Time Complexity]]
 O(n) is known as linear-time
 the no. of operations ∝ the no. of loops
+
+For [[Space Complexity]]
+O(n) is the creation of [[DataStructures]]
 
 ![[Pasted image 20220707121230.png]]
 
