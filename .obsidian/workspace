@@ -1,0 +1,111 @@
+{
+  "main": {
+    "id": "13c15b69c7a8d65b",
+    "type": "split",
+    "children": [
+      {
+        "id": "d8f1f3b4444ef2d5",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Templates/Template - MOC.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "467a058bc1b8e43c",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d4db019a4b1a6891",
+    "type": "split",
+    "children": [
+      {
+        "id": "3be2c2e79b332ea3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cdee9cdca0fae468",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "273c34299f816b0f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f02950b6eb84c564",
+    "type": "split",
+    "children": [
+      {
+        "id": "38419ee48c5d27e6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "98009b1e77c768be",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Templates/Template - MOC.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "d8f1f3b4444ef2d5",
+  "lastOpenFiles": [
+    "Templates/Template - MOC.md",
+    "README.md",
+    "Notes/Rules for Calculateing BigO.md",
+    "Notes/Big O Asymptotic Analysis.md",
+    "Notes/O(n).md",
+    "Notes/Efficiant Performance.md",
+    "Notes/O(1).md",
+    "Attachments/Pasted image 20220707122043.png",
+    "Attachments/Pasted image 20220707122035.png",
+    "Attachments/Pasted image 20220707121230.png"
+  ]
+}
