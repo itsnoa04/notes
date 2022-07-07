@@ -13,6 +13,11 @@ Rules of calculating [[Big O Asymptotic Analysis|Big O]] are as follows:
 	Consider the following code.
 	
 ```js
-let k = "hi"
-console.log(k)
-```
+
+arrayA = ["a","b","c","d"]
+arrayB = [1,2,3,4]
+
+const printBothArrays = (arra) => {
+
+}
+
