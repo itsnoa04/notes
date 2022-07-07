@@ -6,7 +6,7 @@
       {
         "id": "122e593816891506",
         "type": "leaf",
-        "dimension": 43.07692307692308,
+        "dimension": 35.51282051282051,
         "state": {
           "type": "markdown",
           "state": {
@@ -19,7 +19,7 @@
       {
         "id": "74f5f11f7c19f4b0",
         "type": "leaf",
-        "dimension": 56.92307692307692,
+        "dimension": 12.82051282051282,
         "state": {
           "type": "markdown",
           "state": {
@@ -27,6 +27,15 @@
             "mode": "source",
             "source": false
           }
+        }
+      },
+      {
+        "id": "75b374b3040343fc",
+        "type": "leaf",
+        "dimension": 51.66666666666667,
+        "state": {
+          "type": "graph",
+          "state": {}
         }
       }
     ],

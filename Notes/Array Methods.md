@@ -6,7 +6,7 @@ aliases:
 
 [[Array Push|push]]
 [[Array pop|pop]]
-unshift
+[[Array Unshift|unshift]]
 splice -> adds one or deletes several elements from specified index -> [[O(n)]]
 
 syntax:
