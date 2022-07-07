@@ -7,7 +7,8 @@ aliases: push
 adds element to the end of the array 
 
 Syntax:
+```js
+	array.push("element")
+```
 
-array.push("ele")
-
-Time Complexity : [[O
+Time Complexity : [[O(1)]]

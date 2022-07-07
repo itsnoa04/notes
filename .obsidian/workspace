@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Array Push.md",
+            "file": "Notes/Array Unshift.md",
             "mode": "source",
             "source": false
           }
@@ -21,8 +21,12 @@
         "type": "leaf",
         "dimension": 56.92307692307692,
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Notes/Array.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -79,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Array Push.md",
+                "file": "Notes/Array.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,17 +101,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "122e593816891506",
+  "active": "74f5f11f7c19f4b0",
   "lastOpenFiles": [
-    "Notes/Array Push.md",
+    "Notes/Array.md",
+    "Notes/Array Unshift.md",
     "Notes/Array pop.md",
+    "Notes/Array Push.md",
     "Notes/Array Methods.md",
     "Notes/Division of memory in programming languages.md",
-    "Notes/Array.md",
     "Notes/Big O Asymptotic Analysis.md",
     "Notes/Algorithms.md",
     "Notes/List of Data Structures.md",
-    "Notes/O(n).md",
-    "Notes/Memory.md"
+    "Notes/O(n).md"
   ]
 }

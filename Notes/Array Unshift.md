@@ -1,7 +1,7 @@
 ---
 %% created: 2022-07-07 21:59 %%
 tags: concept interview-prep
-aliases: pop
+aliases: unshift
 ---
 
 adds element to the end of the array 
