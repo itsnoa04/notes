@@ -6,11 +6,11 @@
       {
         "id": "d8f1f3b4444ef2d5",
         "type": "leaf",
-        "dimension": 40.705128205128204,
+        "dimension": 41.28205128205128,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Rules for Calculateing BigO.md",
+            "file": "Notes/Untitled.md",
             "mode": "source",
             "source": false
           }
@@ -20,11 +20,11 @@
       {
         "id": "122e593816891506",
         "type": "leaf",
-        "dimension": 41.28205128205128,
+        "dimension": 29.48717948717949,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Rules for Calculateing BigO.md",
+            "file": "Notes/Untitled.md",
             "mode": "preview",
             "source": false
           }
@@ -34,7 +34,7 @@
       {
         "id": "467a058bc1b8e43c",
         "type": "leaf",
-        "dimension": 18.01282051282051,
+        "dimension": 29.230769230769234,
         "state": {
           "type": "graph",
           "state": {}
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Rules for Calculateing BigO.md",
+                "file": "Notes/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,15 +114,15 @@
   },
   "active": "d8f1f3b4444ef2d5",
   "lastOpenFiles": [
+    "Notes/Untitled.md",
+    "Notes/Big O Asymptotic Analysis.md",
+    "Notes/Space Complexity.md",
+    "Notes/O(n^2).md",
     "Notes/Rules for Calculateing BigO.md",
+    "Notes/O(1).md",
     "Notes/Readability.md",
     "Notes/Runtime.md",
-    "Notes/O(1).md",
     "Notes/Efficient memory utilisation.md",
-    "Notes/Efficiant Performance.md",
-    "Templates/Template - Problem Note.md",
-    "Notes/Space Complexity.md",
-    "Templates/Template - MOC.md",
-    "README.md"
+    "Notes/Efficiant Performance.md"
   ]
 }

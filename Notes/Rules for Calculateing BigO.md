@@ -37,11 +37,13 @@ This is similar to O(2n) or [[O(n)]]
 ```js
 const fun = (a,b) => {
 	for(i in a){
-		for(i in b){
+		for(j in b){
 			console.log(a[i],b[j])
 		}
 	}
 }
 
-fun("life","death")
+fun("death","life")
 ```
+
+In the above example the Big O notation is O(a*b) as they are similar to [[O(n^2)]]
