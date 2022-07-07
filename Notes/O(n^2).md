@@ -4,11 +4,11 @@ tags: concept interview-prep
 aliases: constant-time
 ---
 
-O(1) is one of the [[Types of bigO notations]]
+O(n^2) is one of the [[Types of bigO notations]]
 
-O(1) is known as constant time
-no of loops = constant
+O(n^2) is known as quadratic time
+the no. of operations^2 ∝ the no. of loops
 
 ![[Pasted image 20220707184646.png]]
 
-O(1) is great for useage
+O(n^2) is horrible

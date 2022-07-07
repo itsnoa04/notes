@@ -47,3 +47,20 @@ fun("death","life")
 ```
 
 In the above example the Big O notation is O(a*b) as they are similar to [[O(n^2)]]
+
+4. BigO always takes the slowest term
+take the following code
+```js
+const fun = (a) => {
+	for(i in a){
+		console.log(a[i])
+		for(j in a){
+			console.log(a[i],a[j])
+		}
+	}
+}
+
+fun("death")
+```
+
+This code has O(1), O(n) 

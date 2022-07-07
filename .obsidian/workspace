@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/O(n^2).md",
+            "file": "Notes/Rules for Calculateing BigO.md",
             "mode": "source",
             "source": false
           }
@@ -24,7 +24,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/O(n^2).md",
+            "file": "Notes/Rules for Calculateing BigO.md",
             "mode": "preview",
             "source": false
           }
@@ -94,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Notes/Rules for Calculateing BigO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,17 +112,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "467a058bc1b8e43c",
+  "active": "d8f1f3b4444ef2d5",
   "lastOpenFiles": [
+    "Notes/Rules for Calculateing BigO.md",
     "Notes/Types of bigO notations.md",
-    "Notes/Big O.md",
     "Notes/O(n^2).md",
+    "Notes/O(n).md",
+    "Notes/Big O.md",
     "Notes/O(1).md",
     "Notes/Good Code.md",
-    "Notes/O(n).md",
     "Notes/Scalability.md",
     "Notes/Big O Asymptotic Analysis.md",
-    "Notes/Space Complexity.md",
-    "Notes/Rules for Calculateing BigO.md"
+    "Notes/Space Complexity.md"
   ]
 }
