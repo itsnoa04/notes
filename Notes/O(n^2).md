@@ -1,7 +1,7 @@
 ---
 %% created: 2022-07-07 12:18 %%
 tags: concept interview-prep
-aliases: constant-time
+aliases: quadratic-time
 ---
 
 O(n^2) is one of the [[Types of bigO notations]]

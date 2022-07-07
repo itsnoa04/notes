@@ -1,0 +1,16 @@
+---
+%% created: 2022-07-07 12:06 %%
+tags: concept interview-prep
+aliases: factorial-time
+---
+
+O(n!) is one of the [[Types of bigO notations]]
+
+O(n!) is known as factorial-time
+the ! no. of operations ∝ the no. of loops
+
+![[Pasted image 20220707121230.png]]
+
+O(n!) is quite rare 
+
+Useage of O(n) is fair.

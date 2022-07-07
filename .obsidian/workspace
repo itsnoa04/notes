@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/DataStructures.md",
+            "file": "Notes/O(n!).md",
             "mode": "source",
             "source": false
           }
@@ -24,7 +24,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/DataStructures.md",
+            "file": "Notes/O(n!).md",
             "mode": "preview",
             "source": false
           }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/DataStructures.md",
+                "file": "Notes/O(n!).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,15 +114,15 @@
   },
   "active": "d8f1f3b4444ef2d5",
   "lastOpenFiles": [
-    "Notes/DataStructures.md",
-    "Notes/O(1).md",
+    "Notes/O(n!).md",
     "Notes/O(n).md",
     "Notes/O(n^2).md",
+    "Notes/O(1).md",
+    "Notes/Algorithms.md",
+    "Notes/DataStructures.md",
     "Notes/Scalability.md",
     "Notes/Rules for Calculateing BigO.md",
     "Notes/Types of bigO notations.md",
-    "Notes/Big O.md",
-    "Notes/Good Code.md",
-    "Notes/Big O Asymptotic Analysis.md"
+    "Notes/Big O.md"
   ]
 }
