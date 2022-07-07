@@ -4,40 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "d8f1f3b4444ef2d5",
+        "id": "122e593816891506",
         "type": "leaf",
-        "dimension": 33.71794871794872,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/O(n).md",
+            "file": "Highlights/premature optimization is the root of all evil.md",
             "mode": "source",
             "source": false
           }
-        },
-        "group": "7e5063523b285bf0"
-      },
-      {
-        "id": "122e593816891506",
-        "type": "leaf",
-        "dimension": 28.46153846153846,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Notes/O(n).md",
-            "mode": "preview",
-            "source": false
-          }
-        },
-        "group": "7e5063523b285bf0"
-      },
-      {
-        "id": "467a058bc1b8e43c",
-        "type": "leaf",
-        "dimension": 37.82051282051282,
-        "state": {
-          "type": "graph",
-          "state": {}
         }
       }
     ],
@@ -94,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/O(n).md",
+                "file": "Highlights/premature optimization is the root of all evil.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,8 +87,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d8f1f3b4444ef2d5",
+  "active": "122e593816891506",
   "lastOpenFiles": [
+    "Highlights/premature optimization is the root of all evil.md",
     "Notes/O(n).md",
     "Notes/Causes of useage of memory in a program.md",
     "Notes/Division of memory in programming languages.md",
@@ -122,7 +98,6 @@
     "Notes/Three pillars of programming.md",
     "Notes/Heap.md",
     "Notes/Stack.md",
-    "Notes/Good Code.md",
-    "Notes/Efficient memory utilisation.md"
+    "Notes/Good Code.md"
   ]
 }
