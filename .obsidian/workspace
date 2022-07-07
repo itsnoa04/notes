@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Templates/Template - MOC.md",
+            "file": "Notes/Efficiant Performance.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Template - MOC.md",
+                "file": "Notes/Efficiant Performance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,15 +97,15 @@
   },
   "active": "d8f1f3b4444ef2d5",
   "lastOpenFiles": [
+    "Notes/Efficiant Performance.md",
+    "Templates/Template - Problem Note.md",
+    "Notes/Runtime.md",
+    "Notes/Space Complexity.md",
     "Templates/Template - MOC.md",
     "README.md",
     "Notes/Rules for Calculateing BigO.md",
     "Notes/Big O Asymptotic Analysis.md",
     "Notes/O(n).md",
-    "Notes/Efficiant Performance.md",
-    "Notes/O(1).md",
-    "Attachments/Pasted image 20220707122043.png",
-    "Attachments/Pasted image 20220707122035.png",
-    "Attachments/Pasted image 20220707121230.png"
+    "Notes/O(1).md"
   ]
 }
