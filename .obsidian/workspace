@@ -7,7 +7,7 @@
         "id": "c84a67c83e305daa",
         "type": "leaf",
         "state": {
-          "type": "empty",
+          "type": "graph",
           "state": {}
         }
       },
@@ -17,7 +17,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Templates/Templates.md",
+            "file": "Programing/Notes/Hash methods.md",
             "mode": "source",
             "source": false
           }
@@ -85,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Programing/Notes/Hash methods.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,17 +103,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c84a67c83e305daa",
+  "active": "747ac8c4f9eccbbf",
   "lastOpenFiles": [
-    "Programing/Notes/Untitled.md",
+    "Programing/Notes/Hash methods.md",
+    "Templates/Templates.md",
+    "Programing/Notes/Hash insert.md",
+    "Programing/Notes/Array Methods.md",
+    "Programing/Notes/Hash Function.md",
     "Programing/Notes/DataStructures.md",
     "Untitled.md",
     "Programing/Notes/hash table.md",
     "Programing/Notes/How to identify if your code can be optimised.md",
-    "Programing/Notes/O(1).md",
-    "Programing/Notes/O(n!).md",
-    "Programing/Notes/Runtime.md",
-    "Programing/Notes/Exponential Complexity.md",
-    "Programing/Notes/Heap.md"
+    "Programing/Notes/O(1).md"
   ]
 }

@@ -14,3 +14,5 @@ ed:
 A hash function is always one way i.e., it can not be reversed, as in converted back to string.
 
 Ie, a hash function is [[Idempotent]]
+
+They have a time complexity of [[O(1)]]

@@ -3,7 +3,8 @@
 tags: moc interview-prep
 aliases:
 ---
-Array Methods are functions that can modift [[Array]]
+Array Methods are functions that can modify [[Array]]
+[[Array]] have the folowing [[methods]].
 
 [[Array Push|push]]
 [[Array pop|pop]]
