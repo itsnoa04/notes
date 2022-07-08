@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Types of Arrays.md",
+            "file": "Notes/How to build an array from scratch in JS.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Types of Arrays.md",
+                "file": "Notes/How to build an array from scratch in JS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +97,7 @@
   },
   "active": "e0e069f451f23300",
   "lastOpenFiles": [
+    "Notes/How to build an array from scratch in JS.md",
     "Notes/Types of Arrays.md",
     "Notes/Adding an element to static array.md",
     "Notes/Dynamic Arrays.md",
@@ -105,7 +106,6 @@
     "Notes/Array pop.md",
     "Notes/Algorithms.md",
     "Templates/Template - Concept Note.md",
-    "Notes/Static Arrays.md",
-    "Notes/Array Unshift.md"
+    "Notes/Static Arrays.md"
   ]
 }
