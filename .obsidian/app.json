@@ -10,5 +10,6 @@
     "numberToFind",
     "nums",
     "munberToFind"
-  ]
+  ],
+  "alwaysUpdateLinks": true
 }

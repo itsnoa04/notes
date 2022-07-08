@@ -4,15 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c2bb0bc9fcf8ef93",
+        "id": "27c4dec71df26934",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Notes/Array Question 01 - Easy.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -69,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Array Question 01 - Easy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,17 +82,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c2bb0bc9fcf8ef93",
+  "active": "27c4dec71df26934",
   "lastOpenFiles": [
-    "Notes/Array Question 01 - Easy.md",
-    "Highlights/premature optimization is the root of all evil.md",
-    "Notes/How to build an array from scratch in JS.md",
-    "Notes/Array.md",
-    "Notes/Types of Arrays.md",
-    "Notes/Adding an element to static array.md",
-    "Notes/Dynamic Arrays.md",
-    "Notes/DataStructures.md",
-    "Notes/Big O Asymptotic Analysis.md",
-    "Notes/Array pop.md"
+    "AandDSprobs/hi.md",
+    "Programing/Notes/Array Question 01 - Easy.md",
+    "Programing/Highlights/premature optimization is the root of all evil.md",
+    "Programing/Notes/How to build an array from scratch in JS.md",
+    "Programing/Notes/Array.md",
+    "Programing/Notes/Types of Arrays.md",
+    "Programing/Notes/Adding an element to static array.md",
+    "Programing/Notes/Dynamic Arrays.md",
+    "Programing/Notes/DataStructures.md",
+    "Programing/Notes/Big O Asymptotic Analysis.md"
   ]
 }
