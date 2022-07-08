@@ -9,25 +9,25 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Untitled.md",
+            "file": "Exponential Complexity.md",
             "mode": "source",
             "source": false
           }
         },
-        "group": "527193c36feeb45c"
+        "group": "07a0386b77cd4aa0"
       },
       {
-        "id": "27c4dec71df26934",
+        "id": "c84a67c83e305daa",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Untitled.md",
-            "mode": "source",
+            "file": "Exponential Complexity.md",
+            "mode": "preview",
             "source": false
           }
         },
-        "group": "527193c36feeb45c"
+        "group": "07a0386b77cd4aa0"
       }
     ],
     "direction": "vertical"
@@ -91,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "Exponential Complexity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,9 +109,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "27c4dec71df26934",
+  "active": "e8c7b035c37ea6f1",
   "lastOpenFiles": [
-    "Untitled.md",
+    "Exponential Complexity.md",
+    "polynomial complexities.md",
     "Programing/Notes/Given an array return the indices of the two numbers that add up to a given target. - Easy.md",
     "AandDSprobs/hi.md",
     "Programing/Highlights/premature optimization is the root of all evil.md",
@@ -119,7 +120,6 @@
     "Programing/Notes/Array.md",
     "Programing/Notes/Types of Arrays.md",
     "Programing/Notes/Adding an element to static array.md",
-    "Programing/Notes/Dynamic Arrays.md",
-    "Programing/Notes/DataStructures.md"
+    "Programing/Notes/Dynamic Arrays.md"
   ]
 }
