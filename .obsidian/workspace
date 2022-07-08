@@ -20,12 +20,8 @@
         "id": "c84a67c83e305daa",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Exponential Complexity.md",
-            "mode": "preview",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         },
         "group": "07a0386b77cd4aa0"
       }
