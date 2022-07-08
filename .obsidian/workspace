@@ -7,6 +7,18 @@
         "id": "27c4dec71df26934",
         "type": "leaf",
         "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Programing/Notes/Given an array return the indices of the two numbers that add up to a given target. - Easy.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "3d5782889cd17037",
+        "type": "leaf",
+        "state": {
           "type": "empty",
           "state": {}
         }
@@ -82,10 +94,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "27c4dec71df26934",
+  "active": "3d5782889cd17037",
   "lastOpenFiles": [
+    "Programing/Notes/Given an array return the indices of the two numbers that add up to a given target. - Easy.md",
     "AandDSprobs/hi.md",
-    "Programing/Notes/Array Question 01 - Easy.md",
     "Programing/Highlights/premature optimization is the root of all evil.md",
     "Programing/Notes/How to build an array from scratch in JS.md",
     "Programing/Notes/Array.md",
