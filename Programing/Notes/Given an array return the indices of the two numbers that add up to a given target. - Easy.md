@@ -97,3 +97,7 @@ Step 5: Double chk for errors
 Chk for errors in your code.
 
 Step 6: Explain with a test case:
+
+Step 7: Analyse the space and time complexity
+Time complexity : O(n^2)
+
