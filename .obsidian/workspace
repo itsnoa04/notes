@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/How to build an array from scratch in JS.md",
+            "file": "Notes/Array.md",
             "mode": "source",
             "source": false
           }
@@ -19,8 +19,12 @@
         "id": "c2bb0bc9fcf8ef93",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Notes/Array.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -77,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/How to build an array from scratch in JS.md",
+                "file": "Notes/Array.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +101,7 @@
   },
   "active": "e0e069f451f23300",
   "lastOpenFiles": [
+    "Notes/Array.md",
     "Notes/How to build an array from scratch in JS.md",
     "Notes/Types of Arrays.md",
     "Notes/Adding an element to static array.md",
@@ -105,7 +110,6 @@
     "Notes/Big O Asymptotic Analysis.md",
     "Notes/Array pop.md",
     "Notes/Algorithms.md",
-    "Templates/Template - Concept Note.md",
-    "Notes/Static Arrays.md"
+    "Templates/Template - Concept Note.md"
   ]
 }
