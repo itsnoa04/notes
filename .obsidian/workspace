@@ -10,12 +10,12 @@
           {
             "id": "c84a67c83e305daa",
             "type": "leaf",
-            "dimension": 20.242914979757085,
+            "dimension": 79.75708502024291,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Programing/Notes/Given an array return the indices of the two numbers that add up to a given target. - Easy.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -23,7 +23,7 @@
           {
             "id": "0003b5e2bca01d80",
             "type": "leaf",
-            "dimension": 79.75708502024291,
+            "dimension": 20.242914979757085,
             "state": {
               "type": "graph",
               "state": {}
