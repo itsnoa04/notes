@@ -58,6 +58,7 @@ let P1 be the first index
 P2 => every other number in the array until:
 numberToFind = target - nums[P1]
 P2 = munberToFind
-add 1 to P1 and repeat the process
+add 1 to P1 and reset P2
+
 
 
