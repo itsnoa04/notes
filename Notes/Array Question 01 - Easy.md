@@ -54,4 +54,10 @@ Step3: Figure out a solution without code
 
 We can find the solution by useing the 2 pointer methord
 In the 2 pointer method we set two pointers P1 and P2
-let P1 be any item in the array then P2 =>
+let P1 be the first index
+P2 => every other number in the array until:
+numberToFind = target - nums[P1]
+P2 = munberToFind
+add 1 to P1 and repeat the process
+
+
