@@ -6,7 +6,7 @@
       {
         "id": "c84a67c83e305daa",
         "type": "leaf",
-        "dimension": 51.53846153846153,
+        "dimension": 50,
         "state": {
           "type": "markdown",
           "state": {
@@ -14,20 +14,22 @@
             "mode": "source",
             "source": false
           }
-        }
+        },
+        "group": "abec5f17a7a3d482"
       },
       {
-        "id": "747ac8c4f9eccbbf",
+        "id": "a8d1ce10620d6a9a",
         "type": "leaf",
-        "dimension": 48.46153846153846,
+        "dimension": 50,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Programing/Notes/hash table.md",
-            "mode": "source",
+            "file": "Programing/Notes/Given an array return the indices of the two numbers that add up to a given target. - Easy.md",
+            "mode": "preview",
             "source": false
           }
-        }
+        },
+        "group": "abec5f17a7a3d482"
       }
     ],
     "direction": "vertical"
@@ -113,8 +115,8 @@
   "active": "c84a67c83e305daa",
   "lastOpenFiles": [
     "Programing/Notes/Given an array return the indices of the two numbers that add up to a given target. - Easy.md",
-    "Programing/Notes/Causes of useage of memory in a program.md",
     "Programing/Notes/hash table.md",
+    "Programing/Notes/Causes of useage of memory in a program.md",
     "Programing/Notes/Hash collisions.md",
     "Programing/Notes/Hash Function.md",
     "Programing/Notes/Hash delete.md",
