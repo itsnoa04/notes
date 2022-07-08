@@ -2,8 +2,8 @@
   "legacyEditor": false,
   "livePreview": true,
   "promptDelete": false,
-  "newFileLocation": "folder",
-  "newFileFolderPath": "Notes",
+  "newFileLocation": "current",
+  "newFileFolderPath": "",
   "attachmentFolderPath": "Attachments",
   "vimMode": false,
   "spellcheckDictionary": [
