@@ -4,7 +4,7 @@ tags: problem-note easy array hashmap
 aliases:
 ---
 
-Given an array return the indices of the two numbers that add up to a given target.
+Given an [[array]] return the indices of the two numbers that add up to a given target.
 eg :
 array : [1,3,7,9,2]
 target: 11
@@ -52,7 +52,7 @@ Best Case Test Case: Tailored test case so that we know what the answer will be
 
 Step3: Figure out a solution without code
 
-We can find the solution by using the 2 pointer method
+We can find the solution by using the [[2 pointer method]]
 In the 2 pointer method we set two pointers P1 and P2
 let P1 be the first index
 P2 → every other number in the array until:
@@ -96,13 +96,13 @@ console.log(TwoSum([1, 3, 7, 9, 2], 11));
 Step 5: Double chk for errors
 Chk for errors in your code.
 
-Step 6: Explain with a test case:
+Step 6: Explain with a [[test case]]:
 
 Step 7: Analyse the space and time complexity
-Time complexity : O(n^2)
-Space ComplexityL O(1)
+Time complexity : [[O(n^2)]]
+Space ComplexityL [[O(1)]]
 
-Step 8: Optimisation
+Step 8: [[Optimisation]]
 for this perticular problem we can leverage a hashmap to improve out time complexity
 {number to find : index}
 
@@ -137,4 +137,7 @@ const TwoSum = (nums, target) => {
 console.log(TwoSum([1, 3, 7, 9, 2], 11));
 ```
 
-Step 9: Analyse Space and Time Complexity
+Step 9: Analyse optimised Space and Time Complexity
+
+Time complexity: [[O(n)]]
+Space complexity: [[O(n)]]
