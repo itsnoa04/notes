@@ -67,7 +67,7 @@ Step4: Convert this logic to code.
 [Code](../Code/Array_Code_01.js)
 
 ```JS
-const TwoNumbersThatAddUpToTarget = (nums, target) => {
+const findTwoSum = (nums, target) => {
 
   for (p1 in nums) {
 
@@ -75,7 +75,7 @@ const TwoNumbersThatAddUpToTarget = (nums, target) => {
 
     for (p2 in nums) {
 
-      if (p2 == numToFind) {
+      if (nums[p2] == numToFind) {
 
         return [p1, p2];
 
@@ -83,7 +83,7 @@ const TwoNumbersThatAddUpToTarget = (nums, target) => {
 
     }
 
-    nums.splice(p1, 1);
+    nums.splice(p1, 0);
 
   }
 
@@ -91,5 +91,5 @@ const TwoNumbersThatAddUpToTarget = (nums, target) => {
 
   
 
-console.log(TwoNumbersThatAddUpToTarget([1, 3, 7, 9, 2], 11));
+console.log(findTwoSum([1, 3, 7, 9, 2], 11));
 ```
