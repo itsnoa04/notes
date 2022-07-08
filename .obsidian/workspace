@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Untitled.md",
+            "file": "Programing/Notes/Causes of useage of memory in a program.md",
             "mode": "source",
             "source": false
           }
@@ -22,7 +22,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Untitled.md",
+            "file": "Programing/Notes/Causes of useage of memory in a program.md",
             "mode": "source",
             "source": false
           }
@@ -91,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "Programing/Notes/Causes of useage of memory in a program.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,17 +109,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c84a67c83e305daa",
+  "active": "e8c7b035c37ea6f1",
   "lastOpenFiles": [
-    "Untitled.md",
+    "Programing/Notes/Causes of useage of memory in a program.md",
+    "Programing/Notes/Big O Asymptotic Analysis.md",
+    "How to identify if your code can be optimised.md",
     "Programing/Notes/Given an array return the indices of the two numbers that add up to a given target. - Easy.md",
     "Programing/Notes/Array Methods.md",
     "Programing/Notes/Array.md",
     "Programing/Notes/Algorithms.md",
     "Programing/Notes/Adding an element to static array.md",
     "Exponential Complexity.md",
-    "polynomial complexities.md",
-    "AandDSprobs/hi.md",
-    "Programing/Highlights/premature optimization is the root of all evil.md"
+    "polynomial complexities.md"
   ]
 }
