@@ -67,13 +67,13 @@ Step4: Convert this logic to code.
 [Code](../Code/Array_Code_01.js)
 
 ```JS
-const findTwoSum = (nums, target) => {
+const TwoSum = (nums, target) => {
 
-  for (p1 in nums) {
+  for (p1 = 0; p1 < nums.length; p1++) {
 
     let numToFind = target - nums[p1];
 
-    for (p2 in nums) {
+    for (p2 = parseInt(p1 + 1); p2 < nums.length; p2++) {
 
       if (nums[p2] == numToFind) {
 
@@ -83,13 +83,13 @@ const findTwoSum = (nums, target) => {
 
     }
 
-    nums.splice(p1, 0);
-
   }
+
+  return null;
 
 };
 
   
 
-console.log(findTwoSum([1, 3, 7, 9, 2], 11));
+console.log(TwoSum([1, 3, 7, 9, 2], 11));
 ```

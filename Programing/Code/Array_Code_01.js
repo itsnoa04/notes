@@ -15,16 +15,16 @@
 // Repeat the steps until result is obtained
 // Return as an array => [p1,p2]
 
-const TwoNumbersThatAddUpToTarget = (nums, target) => {
-  for (p1 in nums) {
+const TwoSum = (nums, target) => {
+  for (p1 = 0; p1 < nums.length; p1++) {
     let numToFind = target - nums[p1];
-    for (p2 = parseIntint(p1 + 1); p2 < nums.length; p2++) {
-      console.log(p1, nums[p1], p2);
+    for (p2 = parseInt(p1 + 1); p2 < nums.length; p2++) {
       if (nums[p2] == numToFind) {
         return [p1, p2];
       }
     }
   }
+  return null;
 };
 
-console.log(TwoNumbersThatAddUpToTarget([1, 3, 7, 9, 2], 11));
+console.log(TwoSum([1, 3, 7, 9, 2], 11));
