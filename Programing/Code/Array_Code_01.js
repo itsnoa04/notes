@@ -31,7 +31,7 @@ const TwoSum = (nums, target) => {
   const targetIndexHash = {};
   for (pointer = 0; pointer < nums.length; pointer++) {
     let numToFind = target - nums[pointer];
-    if (!targetIndexHash[numToFind]) {
+    if (targetIndexHash[numToFind]) {
       return [pointer, targetIndexHash[numToFind]];
     }
     targetIndexHash[numToFind] = pointer;
