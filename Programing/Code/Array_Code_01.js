@@ -29,11 +29,15 @@ const TwoSumBF = (nums, target) => {
 
 const TwoSum = (nums, target) => {
   const targetIndexHash = {};
-  for (p1 = 0; p1 < nums.length; p1++) {
-    let numToFind = target - nums[p1];
-    if (targetIndexHash[p1]) {
+  for (pointer = 0; pointer < nums.length; pointer++) {
+    let numToFind = target - nums[pointer];
+    if (!targetIndexHash[numToFind]) {
+      return [pointer, targetIndexHash[numToFind]];
     }
+    targetIndexHash[numToFind] = pointer;
   }
+  console.log(targetIndexHash);
+  return null;
 };
 
 console.log(TwoSum([1, 3, 7, 9, 2], 11));
