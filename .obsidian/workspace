@@ -18,7 +18,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Programing/Notes/Given an array return the indices of the two numbers that add up to a given target. - Easy.md",
+                    "file": "Templates/Templates.md",
                     "mode": "source",
                     "source": false
                   }
@@ -31,7 +31,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Programing/Notes/Given an array return the indices of the two numbers that add up to a given target. - Easy.md",
+                    "file": "Templates/Templates.md",
                     "mode": "preview",
                     "source": false
                   }
@@ -95,8 +95,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -116,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programing/Notes/Given an array return the indices of the two numbers that add up to a given target. - Easy.md",
+                "file": "Templates/Templates.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,15 +135,15 @@
   },
   "active": "c84a67c83e305daa",
   "lastOpenFiles": [
+    "Templates/Templates.md",
+    "Templates/Template - interview question.md",
+    "Templates/Template - Concept interview-prep.md",
     "Programing/Notes/Given an array return the indices of the two numbers that add up to a given target. - Easy.md",
     "Programing/Notes/Division of memory in programming languages.md",
     "Programing/Notes/hash table.md",
     "Programing/Notes/Causes of useage of memory in a program.md",
     "Programing/Notes/Hash collisions.md",
     "Programing/Notes/Hash Function.md",
-    "Programing/Notes/Hash delete.md",
-    "Programing/Notes/Hash insert.md",
-    "Programing/Notes/Hash methods.md",
-    "Programing/Notes/Hash lookup.md"
+    "Programing/Notes/Hash delete.md"
   ]
 }
