@@ -114,7 +114,7 @@ const TwoSum = (nums, target) => {
 
   for (pointer = 0; pointer < nums.length; pointer++) {
 
-    if (targetIndexHash[pointer] >= 0) {
+    if (targetIndexHash[nums[pointer]] >= 0) {
 
       return [targetIndexHash[nums[pointer]], pointer];
 
