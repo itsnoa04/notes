@@ -28,7 +28,12 @@ const TwoSumBF = (nums, target) => {
 };
 
 const TwoSum = (nums, target) => {
-  for ( p1 = 0; p1 < nums.length; p1++ )
+  const targetIndexHash = {};
+  for (p1 = 0; p1 < nums.length; p1++) {
+    let numToFind = target - nums[p1];
+    if (targetIndexHash[p1]) {
+    }
+  }
 };
 
 console.log(TwoSum([1, 3, 7, 9, 2], 11));
