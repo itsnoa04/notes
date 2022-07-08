@@ -4,33 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "9ded60952b6b9d4a",
-        "type": "split",
-        "children": [
-          {
-            "id": "c84a67c83e305daa",
-            "type": "leaf",
-            "dimension": 79.75708502024291,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programing/Notes/Given an array return the indices of the two numbers that add up to a given target. - Easy.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0003b5e2bca01d80",
-            "type": "leaf",
-            "dimension": 20.242914979757085,
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          }
-        ],
-        "direction": "horizontal"
+        "id": "c84a67c83e305daa",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
       }
     ],
     "direction": "vertical"
@@ -95,7 +74,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programing/Notes/Given an array return the indices of the two numbers that add up to a given target. - Easy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
