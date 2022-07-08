@@ -15,15 +15,15 @@ Step 1: verify the constraints:
 
 Ask these questions
 
-Q1: Are all of the numbers positive or can they be negative?
-probable answer : Yes
+Q1: Are all the numbers positive, or can they be negative?
+Probable answer : Yes
 Q2: Are they duplicate numbers in the array?
-probable answer : Yes
+Probable answer : Yes
 Q3: Will there always be a solution available?
-probable answer : No
+Probable answer : No
 Q4: What do we return if there is no solution?
-probable answer : return null
-Q5: Will there be multiple pairs that add up to a perticular value
+Probable answer : return null
+Q5: Will there be multiple pairs that add up to a particular value
 probable answer : No
 
 Step 2:Write out test cases:
@@ -52,13 +52,18 @@ Best Case Test Case: Tailored test case so that we know what the answer will be
 
 Step3: Figure out a solution without code
 
-We can find the solution by useing the 2 pointer methord
+We can find the solution by using the 2 pointer method
 In the 2 pointer method we set two pointers P1 and P2
 let P1 be the first index
-P2 => every other number in the array until:
+P2 → every other number in the array until:
 numberToFind = target - nums[P1]
 P2 = munberToFind
 add 1 to P1 and reset P2
+remove previous P1 value
+Repeat the steps until result is obtained
+Return as an array => [p1,p2]
+
+Step4: Convert this logic to code.
 
 
 

@@ -5,5 +5,10 @@
   "newFileLocation": "folder",
   "newFileFolderPath": "Notes",
   "attachmentFolderPath": "Attachments",
-  "vimMode": false
+  "vimMode": false,
+  "spellcheckDictionary": [
+    "numberToFind",
+    "nums",
+    "munberToFind"
+  ]
 }
