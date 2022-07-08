@@ -9,4 +9,6 @@ in this case the collided entry is kept aside as an [[overflow entry]] from the 
 
 ![[Pasted image 20220708184315.png]]
 
-collisions slows down reading and writeing in hash tables. this makes the 
+collisions slows down reading and writeing in hash tables. this makes the complexity [[O(n)]].
+
+we can solve collisions by [[Hash collision resolution]].
