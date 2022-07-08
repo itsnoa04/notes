@@ -7,3 +7,4 @@ aliases: insert
 inserts a value into the hash table
 
 the [[Time Complexity]] is [[O(1)]]
+ 
