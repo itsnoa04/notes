@@ -104,3 +104,35 @@ Space ComplexityL O(1)
 
 Step 8: Optimisation
 for this perticular problem we can leverage a hashmap to improve out time complexity
+{number to find : index}
+
+```JS
+
+const TwoSum = (nums, target) => {
+
+  const targetIndexHash = {};
+
+  for (pointer = 0; pointer < nums.length; pointer++) {
+
+    if (targetIndexHash[pointer] >= 0) {
+
+      return [targetIndexHash[nums[pointer]], pointer];
+
+    } else {
+
+      let numToFind = target - nums[pointer];
+
+      targetIndexHash[numToFind] = pointer;
+
+    }
+
+  }
+
+  return null;
+
+};
+
+  
+
+console.log(TwoSum([1, 3, 7, 9, 2], 11));
+```

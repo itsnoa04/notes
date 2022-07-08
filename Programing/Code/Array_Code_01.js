@@ -30,12 +30,12 @@ const TwoSumBF = (nums, target) => {
 const TwoSum = (nums, target) => {
   const targetIndexHash = {};
   for (pointer = 0; pointer < nums.length; pointer++) {
-    if (targetIndexHash[pointer]) {
+    if (targetIndexHash[pointer] >= 0) {
       return [targetIndexHash[nums[pointer]], pointer];
+    } else {
+      let numToFind = target - nums[pointer];
+      targetIndexHash[numToFind] = pointer;
     }
-    let numToFind = target - nums[pointer];
-
-    targetIndexHash[numToFind] = pointer;
   }
   return null;
 };
