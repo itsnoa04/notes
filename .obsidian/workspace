@@ -14,14 +14,6 @@
             "source": false
           }
         }
-      },
-      {
-        "id": "3d5782889cd17037",
-        "type": "leaf",
-        "state": {
-          "type": "empty",
-          "state": {}
-        }
       }
     ],
     "direction": "vertical"
@@ -56,6 +48,14 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "60c87e0dc4f30bde",
+            "type": "leaf",
+            "state": {
+              "type": "file-tree-view",
+              "state": {}
+            }
           }
         ]
       }
@@ -77,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Programing/Notes/Given an array return the indices of the two numbers that add up to a given target. - Easy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +95,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "3d5782889cd17037",
+  "active": "27c4dec71df26934",
   "lastOpenFiles": [
     "Programing/Notes/Given an array return the indices of the two numbers that add up to a given target. - Easy.md",
     "AandDSprobs/hi.md",

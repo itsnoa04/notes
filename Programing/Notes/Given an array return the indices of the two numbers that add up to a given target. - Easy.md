@@ -64,4 +64,4 @@ Repeat the steps until result is obtained
 Return as an array => [p1,p2]
 
 Step4: Convert this logic to code.
-[Code](../Code/Array_Easy_01.js)
+[Code](../Code/Array_Code_01.js)
