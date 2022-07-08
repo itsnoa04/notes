@@ -18,12 +18,11 @@
 const TwoNumbersThatAddUpToTarget = (nums, target) => {
   for (p1 in nums) {
     let numToFind = target - nums[p1];
-    for (p2 in nums) {
+    for (p2 = p1 + 1; p2 < nums.length; p2++) {
       if (nums[p2] == numToFind) {
         return [p1, p2];
       }
     }
-    nums.splice(p1, 0);
   }
 };
 
