@@ -4,32 +4,54 @@
     "type": "split",
     "children": [
       {
-        "id": "c84a67c83e305daa",
-        "type": "leaf",
-        "dimension": 50,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Programing/Notes/Given an array return the indices of the two numbers that add up to a given target. - Easy.md",
-            "mode": "source",
-            "source": false
+        "id": "9ded60952b6b9d4a",
+        "type": "split",
+        "children": [
+          {
+            "id": "f67f212004989cd9",
+            "type": "split",
+            "dimension": 66.09311740890689,
+            "children": [
+              {
+                "id": "c84a67c83e305daa",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Programing/Notes/Given an array return the indices of the two numbers that add up to a given target. - Easy.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                },
+                "group": "abec5f17a7a3d482"
+              },
+              {
+                "id": "a8d1ce10620d6a9a",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Programing/Notes/Given an array return the indices of the two numbers that add up to a given target. - Easy.md",
+                    "mode": "preview",
+                    "source": false
+                  }
+                },
+                "group": "abec5f17a7a3d482"
+              }
+            ],
+            "direction": "vertical"
+          },
+          {
+            "id": "0003b5e2bca01d80",
+            "type": "leaf",
+            "dimension": 33.906882591093115,
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
-        },
-        "group": "abec5f17a7a3d482"
-      },
-      {
-        "id": "a8d1ce10620d6a9a",
-        "type": "leaf",
-        "dimension": 50,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Programing/Notes/Given an array return the indices of the two numbers that add up to a given target. - Easy.md",
-            "mode": "preview",
-            "source": false
-          }
-        },
-        "group": "abec5f17a7a3d482"
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -94,7 +116,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programing/Notes/Given an array return the indices of the two numbers that add up to a given target. - Easy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,8 +133,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c84a67c83e305daa",
+  "active": "0003b5e2bca01d80",
   "lastOpenFiles": [
+    "Programing/Notes/Division of memory in programming languages.md",
     "Programing/Notes/Given an array return the indices of the two numbers that add up to a given target. - Easy.md",
     "Programing/Notes/hash table.md",
     "Programing/Notes/Causes of useage of memory in a program.md",
@@ -122,7 +144,6 @@
     "Programing/Notes/Hash delete.md",
     "Programing/Notes/Hash insert.md",
     "Programing/Notes/Hash methods.md",
-    "Programing/Notes/Hash lookup.md",
-    "Templates/Templates.md"
+    "Programing/Notes/Hash lookup.md"
   ]
 }
