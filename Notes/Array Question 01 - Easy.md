@@ -35,6 +35,21 @@ Best Case Test Case: Tailored test case so that we know what the answer will be
 	result: [3,4]
 2)
 	array : [1,3,7,9,2]
-	target: 11
-	result: [3,4]
+	target: 25
+	result: null
+3)
+	array:[]
+	target: 1
+	result: null
+4)
+	array: [5]
+	target: 5
+	result: null
+5)
+	array: [1,2]
+	target: 3
+	result: [0,1]
 
+Step3: Figure out a solution without code
+
+Create the sum of every single possible pairs 
