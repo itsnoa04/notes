@@ -52,4 +52,6 @@ Best Case Test Case: Tailored test case so that we know what the answer will be
 
 Step3: Figure out a solution without code
 
-Create the sum of every single possible pairs 
+We can find the solution by useing the 2 pointer methord
+In the 2 pointer method we set two pointers P1 and P2
+let P1 be any item in the array then P2 =>
