@@ -65,3 +65,35 @@ Return as an array => [p1,p2]
 
 Step4: Convert this logic to code.
 [Code](../Code/Array_Code_01.js)
+
+```JS
+const TwoNumbersThatAddUpToTarget = (nums, target) => {
+
+  for (p1 in nums) {
+
+    let numToFind = target - nums[p1];
+
+    for (p2 in nums) {
+
+      if (p2 == numToFind) {
+
+        return [p1, p2];
+
+      }
+
+    }
+
+    nums.splice(p1, 1);
+
+  }
+
+};
+
+  
+
+console.log(
+
+    TwoNumbersThatAddUpToTarget([1, 3, 7, 9, 2], 11);
+
+);
+```

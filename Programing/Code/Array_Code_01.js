@@ -9,8 +9,24 @@
 // let P1 be the first index
 // P2 → every other number in the array until:
 // numberToFind = target - nums[P1]
-// P2 = munberToFind
+// if P2 = munberToFind return else
 // add 1 to P1 and reset P2
 // remove previous P1 value
 // Repeat the steps until result is obtained
 // Return as an array => [p1,p2]
+
+const TwoNumbersThatAddUpToTarget = (nums, target) => {
+  for (p1 in nums) {
+    let numToFind = target - nums[p1];
+    for (p2 in nums) {
+      if (p2 == numToFind) {
+        return [p1, p2];
+      }
+    }
+    nums.splice(p1, 1);
+  }
+};
+
+console.log(
+    TwoNumbersThatAddUpToTarget([1, 3, 7, 9, 2], 11);
+);
