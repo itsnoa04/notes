@@ -17,7 +17,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Programing/Notes/Hash methods.md",
+            "file": "Programing/Notes/Hash insert.md",
             "mode": "source",
             "source": false
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programing/Notes/Hash methods.md",
+                "file": "Programing/Notes/Hash insert.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,9 +105,9 @@
   },
   "active": "747ac8c4f9eccbbf",
   "lastOpenFiles": [
+    "Programing/Notes/Hash insert.md",
     "Programing/Notes/Hash methods.md",
     "Templates/Templates.md",
-    "Programing/Notes/Hash insert.md",
     "Programing/Notes/Array Methods.md",
     "Programing/Notes/Hash Function.md",
     "Programing/Notes/DataStructures.md",
