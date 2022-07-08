@@ -6,8 +6,8 @@ aliases:
 
 Hashtables or object is one of the [[DataStructures]] which has a key and a value.
 ```js
-{
-	key : value
+let user = {
+	age:1
 }
 ```
 
