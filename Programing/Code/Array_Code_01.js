@@ -15,7 +15,7 @@
 // Repeat the steps until result is obtained
 // Return as an array => [p1,p2]
 
-const TwoSum = (nums, target) => {
+const TwoSumBF = (nums, target) => {
   for (p1 = 0; p1 < nums.length; p1++) {
     let numToFind = target - nums[p1];
     for (p2 = parseInt(p1 + 1); p2 < nums.length; p2++) {
@@ -25,6 +25,10 @@ const TwoSum = (nums, target) => {
     }
   }
   return null;
+};
+
+const TwoSum = (nums, target) => {
+  for ( p1 = 0; p1 < nums.length; p1++ )
 };
 
 console.log(TwoSum([1, 3, 7, 9, 2], 11));

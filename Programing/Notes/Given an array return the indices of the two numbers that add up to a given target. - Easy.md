@@ -102,5 +102,5 @@ Step 7: Analyse the space and time complexity
 Time complexity : O(n^2)
 Space ComplexityL O(1)
 
-Step 8:
- 
+Step 8: Optimisation
+for this perticular problem we can leverage a hashmap to improve out time complexity
