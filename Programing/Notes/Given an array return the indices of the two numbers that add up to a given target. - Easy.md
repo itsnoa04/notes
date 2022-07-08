@@ -91,9 +91,5 @@ const TwoNumbersThatAddUpToTarget = (nums, target) => {
 
   
 
-console.log(
-
-    TwoNumbersThatAddUpToTarget([1, 3, 7, 9, 2], 11);
-
-);
+console.log(TwoNumbersThatAddUpToTarget([1, 3, 7, 9, 2], 11));
 ```
