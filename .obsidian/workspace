@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "75b374b3040343fc",
+        "id": "e0e069f451f23300",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -16,24 +16,12 @@
         }
       },
       {
-        "id": "8ab581f51a008794",
+        "id": "c2bb0bc9fcf8ef93",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Dynamic Arrays.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "681460d86fcc6cee",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Notes/Static Arrays.md",
+            "file": "Notes/Adding an element to static array.md",
             "mode": "source",
             "source": false
           }
@@ -93,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Dynamic Arrays.md",
+                "file": "Notes/Adding an element to static array.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,17 +99,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "8ab581f51a008794",
+  "active": "c2bb0bc9fcf8ef93",
   "lastOpenFiles": [
+    "Notes/Adding an element to static array.md",
     "Notes/Dynamic Arrays.md",
-    "Templates/Template - Concept Note.md",
     "Notes/Types of Arrays.md",
-    "Notes/Static Arrays.md",
-    "Notes/Array Unshift.md",
-    "Notes/Array splice.md",
-    "Notes/Array.md",
+    "Notes/DataStructures.md",
     "Notes/Big O Asymptotic Analysis.md",
-    "Notes/Array Methods.md",
-    "Notes/Untitled.md"
+    "Notes/Array pop.md",
+    "Notes/Algorithms.md",
+    "Templates/Template - Concept Note.md",
+    "Notes/Static Arrays.md",
+    "Notes/Array Unshift.md"
   ]
 }
