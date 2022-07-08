@@ -17,7 +17,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Programing/Notes/hash table.md",
+            "file": "Programing/Notes/Hash collisions.md",
             "mode": "source",
             "source": false
           }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programing/Notes/hash table.md",
+                "file": "Programing/Notes/Hash collisions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +106,8 @@
   },
   "active": "747ac8c4f9eccbbf",
   "lastOpenFiles": [
+    "Programing/Notes/Hash collisions.md",
+    "Programing/Notes/Hash Function.md",
     "Programing/Notes/hash table.md",
     "Programing/Notes/Hash delete.md",
     "Programing/Notes/Hash insert.md",
@@ -113,8 +115,6 @@
     "Programing/Notes/Hash lookup.md",
     "Templates/Templates.md",
     "Programing/Notes/Array Methods.md",
-    "Programing/Notes/Hash Function.md",
-    "Programing/Notes/DataStructures.md",
-    "Untitled.md"
+    "Programing/Notes/DataStructures.md"
   ]
 }
