@@ -4,4 +4,20 @@ tags: problem-note
 aliases:
 ---
 
-Given an array return the indices of the two numbers that add u
+Given an array return the indices of the two numbers that add up to a given target.
+
+array : [1,3,7,9,2]
+target: 11
+result: [3,4]
+
+---
+Step !: verify the constraints: 
+Q1: Are all of the numbers positive or can they be negative?
+probable answer : Yes
+Q2: Are they duplicate numbers in the array?
+probable answer : Yes
+Q3: Will there always be a solution available?
+probable answer : No
+Q4: What do we return if there is no solution?
+probable answer : return null
+Q5: Will there be multiple pairs that add up to a perticular value
