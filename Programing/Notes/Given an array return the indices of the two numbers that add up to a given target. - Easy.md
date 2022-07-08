@@ -93,3 +93,7 @@ const TwoSum = (nums, target) => {
 
 console.log(TwoSum([1, 3, 7, 9, 2], 11));
 ```
+Step 5: Double chk for errors
+Chk for errors in your code.
+
+Step 6: Explain with a test case:
