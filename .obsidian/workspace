@@ -18,12 +18,11 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Templates/Templates.md",
+                    "file": "Programing/Notes/Given an array return the indices of the two numbers that add up to a given target. - Easy.md",
                     "mode": "source",
                     "source": false
                   }
-                },
-                "group": "abec5f17a7a3d482"
+                }
               },
               {
                 "id": "a8d1ce10620d6a9a",
@@ -31,12 +30,11 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Templates/Templates.md",
+                    "file": "Programing/Notes/Given an array return the indices of the two numbers that add up to a given target. - Easy.md",
                     "mode": "preview",
                     "source": false
                   }
-                },
-                "group": "abec5f17a7a3d482"
+                }
               }
             ],
             "direction": "vertical"
@@ -99,7 +97,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "f02950b6eb84c564",
@@ -115,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Templates.md",
+                "file": "Programing/Notes/Given an array return the indices of the two numbers that add up to a given target. - Easy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,10 +134,10 @@
   },
   "active": "c84a67c83e305daa",
   "lastOpenFiles": [
+    "Programing/Notes/Given an array return the indices of the two numbers that add up to a given target. - Easy.md",
     "Templates/Templates.md",
     "Templates/Template - interview question.md",
     "Templates/Template - Concept interview-prep.md",
-    "Programing/Notes/Given an array return the indices of the two numbers that add up to a given target. - Easy.md",
     "Programing/Notes/Division of memory in programming languages.md",
     "Programing/Notes/hash table.md",
     "Programing/Notes/Causes of useage of memory in a program.md",

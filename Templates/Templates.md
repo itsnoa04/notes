@@ -13,3 +13,5 @@ aliases:
 [[Template - Evergreen Note]]
 [[Template - Literature Note]]
 [[Template - Concept interview-prep]]
+[[Template - interview question]]
+
