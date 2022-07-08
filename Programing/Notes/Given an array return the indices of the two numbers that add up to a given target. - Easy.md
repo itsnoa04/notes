@@ -1,6 +1,6 @@
 ---
 %% created: 2022-07-08 08:59 %%
-tags: problem-note
+tags: problem-note easy array hashmap
 aliases:
 ---
 
