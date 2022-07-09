@@ -1,5 +1,5 @@
 ---
 %% created: {{date}} {{time}} %%
 tags: quote
-aliases:
+aliases: 
 ---

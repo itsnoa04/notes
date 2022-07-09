@@ -7,8 +7,12 @@
         "id": "c84a67c83e305daa",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Templates/Template - Quote.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -74,6 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Templates/Template - Quote.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,6 +98,7 @@
   },
   "active": "c84a67c83e305daa",
   "lastOpenFiles": [
+    "Templates/Template - Quote.md",
     "Programing/Notes/Given an array return the indices of the two numbers that add up to a given target. - Easy.md",
     "Templates/Template - interview question.md",
     "Templates/Templates.md",
@@ -101,7 +107,6 @@
     "Programing/Notes/hash table.md",
     "Programing/Notes/Causes of useage of memory in a program.md",
     "Programing/Notes/Hash collisions.md",
-    "Programing/Notes/Hash Function.md",
-    "Programing/Notes/Hash delete.md"
+    "Programing/Notes/Hash Function.md"
   ]
 }
