@@ -3,4 +3,3 @@
 tags: quote
 aliases: 
 ---
-j
