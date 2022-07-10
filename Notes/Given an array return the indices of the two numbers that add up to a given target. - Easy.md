@@ -4,7 +4,7 @@ tags: problem-note easy array hashmap
 aliases:
 ---
 
-Given an [[array]] return the indices of the two numbers that add up to a given target.
+Given an [[Array]] return the indices of the two numbers that add up to a given target.
 eg :
 array : [1,3,7,9,2]
 target: 11
@@ -64,7 +64,7 @@ Repeat the steps until result is obtained
 Return as an array => [p1,p2]
 
 Step4: Convert this logic to code.
-[Code](../Code/Array_Code_01.js)
+[Code](Array_Code_01.js)
 
 ```JS
 const TwoSum = (nums, target) => {
