@@ -4,4 +4,4 @@ tags: concept
 aliases:
 ---
 
-A platform that hosts git repositories 
+A [[hosting platform]] that hosts git repositories on [[the cloud]] for [[off-site backup]].
