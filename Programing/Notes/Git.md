@@ -4,5 +4,9 @@ tags: concept
 aliases:
 ---
 
-A system for keeping track of changes that happen across a set of files. AKA a [[version control]] system
+A system for keeping track of changes that happen across a set of files.
+git is an [[Examples of Version Control System]] 
 
+git is executed using a [[list of git commands]].
+
+git was created by [[Linus Torvalds]]
