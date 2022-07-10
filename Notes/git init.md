@@ -4,4 +4,5 @@ tags: concept
 aliases:
 ---
 
-git init is used to initialise a new [[git repository]] by createing a [[.git]]
+git init is used to initialise a new [[git repository]] by createing a [[git dir|.git]] directory.
+

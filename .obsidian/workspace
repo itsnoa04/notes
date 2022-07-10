@@ -9,7 +9,19 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/git init.md",
+            "file": "Notes/git dir.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "33101874b780cee5",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Notes/git commits.md",
             "mode": "source",
             "source": false
           }
@@ -57,8 +69,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -78,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/git init.md",
+                "file": "Notes/git commits.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,17 +107,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c84a67c83e305daa",
+  "active": "33101874b780cee5",
   "lastOpenFiles": [
+    "Notes/git commits.md",
+    "Notes/git dir.md",
     "Notes/git init.md",
+    "Notes/git repository.md",
     "Notes/list of git commands.md",
     "Notes/Git.md",
     "Notes/github.md",
     "Notes/Array pop.md",
     "Templates/Templates.md",
-    "Notes/Linus Torvalds.md",
-    "Templates/Template - Person.md",
-    "Templates/Template - Project.md",
-    "Notes/Example of git hoasting platforms.md"
+    "Notes/Linus Torvalds.md"
   ]
 }
