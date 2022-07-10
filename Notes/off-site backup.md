@@ -4,4 +4,5 @@ tags: concept
 aliases:
 ---
 
-a [[backup]] of files made away from site or 
+a [[backup]] of files made away from site.
+example: backing up files in [[the cloud]].

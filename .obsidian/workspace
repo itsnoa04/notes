@@ -10,7 +10,7 @@
           {
             "id": "542e608e8c94750b",
             "type": "split",
-            "dimension": 73.07692307692307,
+            "dimension": 20.242914979757085,
             "children": [
               {
                 "id": "897e8b4546ffa0b2",
@@ -49,24 +49,12 @@
                 }
               },
               {
-                "id": "a17d6a6766175be2",
+                "id": "2ac521f65e452dc4",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Notes/git hoasting platform.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "efb7c85384725ca5",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Notes/off-site backup.md",
+                    "file": "Notes/github.md",
                     "mode": "source",
                     "source": false
                   }
@@ -78,7 +66,7 @@
           {
             "id": "c84a67c83e305daa",
             "type": "leaf",
-            "dimension": 26.923076923076923,
+            "dimension": 79.75708502024291,
             "state": {
               "type": "graph",
               "state": {}
@@ -151,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/off-site backup.md",
+                "file": "Notes/git repository.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,17 +157,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "efb7c85384725ca5",
+  "active": "4e3a5d0852a16fda",
   "lastOpenFiles": [
-    "Notes/off-site backup.md",
+    "Notes/git repository.md",
+    "Notes/github.md",
     "Notes/git hoasting platform.md",
+    "Notes/off-site backup.md",
+    "Notes/backup.md",
     "Notes/Types of hoasting platforms.md",
     "Notes/cloud hoasting platform.md",
     "Notes/the cloud.md",
     "Notes/hosting platform.md",
-    "Notes/git repository.md",
-    "Notes/git init.md",
-    "Notes/Git.md",
-    "Notes/list of git commands.md"
+    "Notes/git init.md"
   ]
 }
