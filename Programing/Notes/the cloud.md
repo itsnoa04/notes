@@ -4,4 +4,4 @@ tags: concept
 aliases:
 ---
 
-A server or a virtual mechine provided by a [[cloud hoasting platfo]]
+A server or a virtual mechine provided by a [[cloud hoasting platform]].

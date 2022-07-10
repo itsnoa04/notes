@@ -70,6 +70,30 @@
             "source": false
           }
         }
+      },
+      {
+        "id": "3200867bda46cf13",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Programing/Notes/cloud hoasting platform.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "df9396d79d9cd3f4",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Programing/Notes/Types of hoasting platforms.md",
+            "mode": "source",
+            "source": false
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -133,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programing/Notes/the cloud.md",
+                "file": "Programing/Notes/Types of hoasting platforms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,8 +175,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "93bef6fe9fc101b6",
+  "active": "df9396d79d9cd3f4",
   "lastOpenFiles": [
+    "Programing/Notes/Types of hoasting platforms.md",
+    "Programing/Notes/cloud hoasting platform.md",
     "Programing/Notes/the cloud.md",
     "Programing/Notes/git hoasting platform.md",
     "Programing/Notes/hosting platform.md",
@@ -160,8 +186,6 @@
     "Programing/Notes/git init.md",
     "Programing/Notes/Git.md",
     "Programing/Notes/list of git commands.md",
-    "Templates/Examples of Version Control System.md",
-    "Attachments/Pasted image 20220708184315.png",
-    "Programing/Notes/version control.md"
+    "Templates/Examples of Version Control System.md"
   ]
 }
