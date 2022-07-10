@@ -14,4 +14,4 @@ aliases:
 [[Template - Literature Note]]
 [[Template - Concept interview-prep]]
 [[Template - interview question]]
-
+[[Template - Person]]
