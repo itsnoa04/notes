@@ -4,76 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "8507a76eecde10e1",
-        "type": "split",
-        "children": [
-          {
-            "id": "542e608e8c94750b",
-            "type": "split",
-            "dimension": 20.242914979757085,
-            "children": [
-              {
-                "id": "897e8b4546ffa0b2",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Notes/Git.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "73be66db9b972c6d",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Notes/git init.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "4e3a5d0852a16fda",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Notes/git repository.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "2ac521f65e452dc4",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Notes/github.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              }
-            ],
-            "direction": "vertical"
-          },
-          {
-            "id": "c84a67c83e305daa",
-            "type": "leaf",
-            "dimension": 79.75708502024291,
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          }
-        ],
-        "direction": "horizontal"
+        "id": "c84a67c83e305daa",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
       }
     ],
     "direction": "vertical"
@@ -117,13 +53,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "f02950b6eb84c564",
@@ -139,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/git repository.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,17 +90,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "4e3a5d0852a16fda",
+  "active": "c84a67c83e305daa",
   "lastOpenFiles": [
-    "Notes/git repository.md",
+    "Notes/Linus Torvalds.md",
+    "Notes/Git.md",
+    "Templates/Template - Person.md",
+    "Templates/Template - Project.md",
+    "Notes/git init.md",
     "Notes/github.md",
-    "Notes/git hoasting platform.md",
-    "Notes/off-site backup.md",
-    "Notes/backup.md",
-    "Notes/Types of hoasting platforms.md",
-    "Notes/cloud hoasting platform.md",
-    "Notes/the cloud.md",
-    "Notes/hosting platform.md",
-    "Notes/git init.md"
+    "Notes/Example of git hoasting platforms.md",
+    "Notes/git repository.md",
+    "Notes/Example of.md",
+    "Notes/git hoasting platform.md"
   ]
 }

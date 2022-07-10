@@ -4,4 +4,5 @@ tags: concept
 aliases:
 ---
 
-Github isan [[Example of ]]
+Github is an [[Example of git hoasting platforms]].
+it is owned by [[microsoft]].
