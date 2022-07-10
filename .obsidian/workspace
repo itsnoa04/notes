@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/git dir.md",
+            "file": "Notes/Algorithms.md",
             "mode": "source",
             "source": false
           }
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Notes/Algorithms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,17 +121,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "33101874b780cee5",
+  "active": "c84a67c83e305daa",
   "lastOpenFiles": [
+    "Notes/Algorithms.md",
+    "Notes/Array Methods.md",
+    "Notes/git dir.md",
     "README.md",
     "Notes/git commits.md",
-    "Notes/git dir.md",
     "Notes/git init.md",
     "Notes/git repository.md",
     "Notes/list of git commands.md",
     "Notes/Git.md",
-    "Notes/github.md",
-    "Notes/Array pop.md",
-    "Templates/Templates.md"
+    "Notes/github.md"
   ]
 }
