@@ -9,4 +9,4 @@ git is an [[Examples of Version Control System]]
 
 git is executed using a [[list of git commands]].
 
-git was created by [[Linus Torvalds]]
+git was created by [[Linus Torvalds]] in [[2005]]
