@@ -109,6 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Notes/list of git commands.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,12 +126,12 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "633b4826e56452d3",
+  "active": "a0d7a2a6d9b1e171",
   "lastOpenFiles": [
+    "Notes/list of git commands.md",
     "Notes/git push.md",
     "Notes/git merge.md",
     "Notes/git fetch.md",
-    "Notes/list of git commands.md",
     "Notes/git pull.md",
     "Notes/git init.md",
     "Notes/git remote.md",
