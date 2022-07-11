@@ -9,10 +9,42 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/git remote.md",
+            "file": "Notes/list of git commands.md",
             "mode": "source",
             "source": false
           }
+        }
+      },
+      {
+        "id": "29c9dd5152da47b3",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Notes/git fetch.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "5ad7d44465e858c8",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Notes/git merge.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "633b4826e56452d3",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -77,7 +109,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/git remote.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,17 +125,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "a0d7a2a6d9b1e171",
+  "active": "633b4826e56452d3",
   "lastOpenFiles": [
+    "Notes/git push.md",
+    "Notes/git merge.md",
+    "Notes/git fetch.md",
+    "Notes/list of git commands.md",
+    "Notes/git pull.md",
+    "Notes/git init.md",
     "Notes/git remote.md",
     "Notes/git repository.md",
     "Notes/git commits.md",
-    "Notes/git branch.md",
-    "Notes/list of git commands.md",
-    "Notes/git commit.md",
-    "Notes/git init.md",
-    "Notes/git hoasting platform.md",
-    "Notes/git ignore.md",
-    "Notes/git status.md"
+    "Notes/git branch.md"
   ]
 }
