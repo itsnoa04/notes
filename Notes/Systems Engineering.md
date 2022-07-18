@@ -1,3 +1,1 @@
-A systems engineer is responsible for designing and setting up a companies network infrastructure.
-
-They make sure that all 
+A systems engineer is responsible for designing and setting up a companies network infrastructure. They also make sure that the system is running smoothly and efficiently.

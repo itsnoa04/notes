@@ -1,8 +1,3 @@
----
-%% created: 2022-07-07 21:49 %%
-tags: moc interview-prep
-aliases:
----
 Array Methods are functions that can modify [[Array]]
 [[Array]] have the folowing [[methods]].
 

@@ -1,0 +1,1 @@
+systems design fundamentals are rules, procedures and concepts followed by [[sy]]

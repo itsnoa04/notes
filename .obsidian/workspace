@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Systems Engineering.md",
+            "file": "Notes/Systems Design Fundamentals.md",
             "mode": "source",
             "source": false
           }
@@ -57,8 +57,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -78,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Systems Engineering.md",
+                "file": "Notes/Systems Design Fundamentals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,15 +96,15 @@
   },
   "active": "633b4826e56452d3",
   "lastOpenFiles": [
+    "Notes/Algorithms.md",
+    "Notes/Array Methods.md",
+    "Notes/Adding an element to static array.md",
+    "Notes/Array pop.md",
+    "Notes/Array Push.md",
+    "Notes/Array splice.md",
+    "Notes/Array Unshift.md",
+    "Notes/Systems Engineering.md",
     "Notes/git merge.md",
-    "Notes/git fetch.md",
-    "Notes/Programing Paradigms.md",
-    "Notes/list of git commands.md",
-    "Notes/git push.md",
-    "Notes/git pull.md",
-    "Notes/git init.md",
-    "Notes/git remote.md",
-    "Notes/git repository.md",
-    "Notes/git commits.md"
+    "Notes/git fetch.md"
   ]
 }
