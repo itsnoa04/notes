@@ -4,47 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "a0d7a2a6d9b1e171",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Notes/Programing Paradigms.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "29c9dd5152da47b3",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Notes/git fetch.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "5ad7d44465e858c8",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Notes/git merge.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
         "id": "633b4826e56452d3",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Notes/Systems Engineering.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -110,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Programing Paradigms.md",
+                "file": "Notes/Systems Engineering.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,17 +95,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "a0d7a2a6d9b1e171",
+  "active": "633b4826e56452d3",
   "lastOpenFiles": [
-    "Notes/list of git commands.md",
-    "Notes/git push.md",
     "Notes/git merge.md",
     "Notes/git fetch.md",
+    "Notes/Programing Paradigms.md",
+    "Notes/list of git commands.md",
+    "Notes/git push.md",
     "Notes/git pull.md",
     "Notes/git init.md",
     "Notes/git remote.md",
     "Notes/git repository.md",
-    "Notes/git commits.md",
-    "Notes/git branch.md"
+    "Notes/git commits.md"
   ]
 }
