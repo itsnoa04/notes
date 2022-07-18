@@ -4,24 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "633b4826e56452d3",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Notes/Systems Design Fundamentals.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
         "id": "8ee154e45005217b",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
             "file": "Notes/Client-Server model.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "389a8f1acb95493a",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Notes/client.md",
             "mode": "source",
             "source": false
           }
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Client-Server model.md",
+                "file": "Notes/client.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,10 +106,10 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "8ee154e45005217b",
+  "active": "389a8f1acb95493a",
   "lastOpenFiles": [
-    "Notes/Systems Design Fundamentals.md",
     "Notes/Client-Server model.md",
+    "Notes/Systems Design Fundamentals.md",
     "Notes/Algorithms.md",
     "Notes/Array Methods.md",
     "Notes/Adding an element to static array.md",
