@@ -4,27 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8ee154e45005217b",
+        "id": "c40347b542d3a166",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Notes/Client-Server model.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "b1336516c23cc09d",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Notes/Port.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -89,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Port.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,10 +89,10 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "b1336516c23cc09d",
+  "active": "c40347b542d3a166",
   "lastOpenFiles": [
-    "Notes/Client-Server model.md",
     "Notes/Port.md",
+    "Notes/Client-Server model.md",
     "Notes/IP Address.md",
     "Notes/IPV4.md",
     "Notes/localhost.md",
