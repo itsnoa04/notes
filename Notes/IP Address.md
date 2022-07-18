@@ -1,0 +1,1 @@
+An address given to each machine connected to the public 

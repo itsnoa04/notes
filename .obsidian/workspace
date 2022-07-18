@@ -16,12 +16,12 @@
         }
       },
       {
-        "id": "389a8f1acb95493a",
+        "id": "ca62ab0171f05ec2",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/client.md",
+            "file": "Notes/IP Address.md",
             "mode": "source",
             "source": false
           }
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/client.md",
+                "file": "Notes/IP Address.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,17 +106,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "389a8f1acb95493a",
+  "active": "ca62ab0171f05ec2",
   "lastOpenFiles": [
     "Notes/Client-Server model.md",
+    "Notes/IP Address.md",
+    "Notes/client.md",
+    "Notes/server.md",
     "Notes/Systems Design Fundamentals.md",
     "Notes/Algorithms.md",
     "Notes/Array Methods.md",
     "Notes/Adding an element to static array.md",
     "Notes/Array pop.md",
-    "Notes/Array Push.md",
-    "Notes/Array splice.md",
-    "Notes/Array Unshift.md",
-    "Notes/Systems Engineering.md"
+    "Notes/Array Push.md"
   ]
 }
