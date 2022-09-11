@@ -28,7 +28,10 @@
   },
   "Templates": "RiMap2Fill",
   "PDFs": "RiFilePdfLine",
-  "Notes": "RiFireLine",
+  "Notes": {
+    "iconName": "RiFireLine",
+    "inheritanceIcon": "RiLightbulbFlashLine"
+  },
   "Assets": "RiImageFill",
   "Notes/MUJ": "RiBookletFill",
   "Notes/MUJ/Sem-1": "RiCalendar2Line",

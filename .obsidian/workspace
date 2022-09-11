@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Intro to 3D in web.md",
-            "mode": "source",
+            "file": "Notes/GLSL.md",
+            "mode": "preview",
             "backlinks": true,
             "source": false
           }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Intro to 3D in web.md",
+                "file": "Notes/GLSL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Intro to 3D in web.md",
+                "file": "Notes/GLSL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Intro to 3D in web.md"
+                "file": "Notes/GLSL.md"
               }
             }
           }
@@ -129,14 +129,14 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e0314172579028d0",
+  "active": "d5aef9bcf9ab30a1",
   "lastOpenFiles": [
+    "Notes/Intro to 3D in web.md",
     "Assets/Pasted image 20220911203734.png",
     "Assets/Pasted image 20220911203334.png",
     "Assets/Pasted image 20220911203549.png",
     "Assets/Pasted image 20220911203721.png",
     "Notes/GLSL.md",
-    "Notes/Intro to 3D in web.md",
     "Untitled.md",
     "Notes/MUJ/Sem-1/Understanding PC and Troubleshooting/UNIT 1 CPU/E content.md",
     "PDFs/Unit 01 The CPU.pdf",
