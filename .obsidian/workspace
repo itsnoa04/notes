@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/GLSL.md",
+            "file": "Notes/Vectors.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/GLSL.md",
+                "file": "Notes/Vectors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/GLSL.md",
+                "file": "Notes/Vectors.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/GLSL.md"
+                "file": "Notes/Vectors.md"
               }
             }
           }
@@ -131,8 +131,8 @@
   },
   "active": "d5aef9bcf9ab30a1",
   "lastOpenFiles": [
-    "Templates/GLSL - template.md",
     "Notes/GLSL.md",
+    "Templates/GLSL - template.md",
     "Notes/Intro to 3D in web.md",
     "Assets/Pasted image 20220911203734.png",
     "Assets/Pasted image 20220911203334.png",

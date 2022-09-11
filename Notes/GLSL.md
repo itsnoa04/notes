@@ -90,11 +90,11 @@ vec2 vectorA = vec2(1.0 , 6.0)
 
 bvec4 vectorB = bvec4(true,true,false,true)
 
-vec3 vectorC = vec3(2.0) // shorthand for vec3(2.0,2.0,2.0)
+vec2 vectorC = vec2(2.0) // shorthand for vec3(2.0,2.0)
 
 // we can also combine vectors to create a new vector 
 
-vec5 
+vec4 AplusC = vec4(vectorA, vectorB)
 
 ```
 
