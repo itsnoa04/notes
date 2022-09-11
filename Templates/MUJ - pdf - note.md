@@ -1,1 +1,1 @@
-annotation-target::PDFs%2FUnit%2001%20The%20CPU.pdf
+annotation-target::https://github.com/itsnoa04/notes/blob/master/PDFs/Unit%2001%20The%20CPU.pdf

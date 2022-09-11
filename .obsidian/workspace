@@ -7,12 +7,9 @@
         "id": "a63de3f889fc51e9",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "pdf-annotator",
           "state": {
-            "file": "Templates/MUJ - pdf - note.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
+            "file": "Templates/MUJ - pdf - note.md"
           }
         }
       }
