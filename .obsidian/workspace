@@ -4,16 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "a63de3f889fc51e9",
-        "type": "leaf",
-        "state": {
-          "type": "pdf",
-          "state": {
-            "file": "PDFs/Unit 01 The CPU.pdf"
-          }
-        }
-      },
-      {
         "id": "14a13e81ed398be4",
         "type": "leaf",
         "state": {
@@ -69,7 +59,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 321
   },
   "right": {
     "id": "ae62cce83a58d50d",
@@ -138,8 +128,10 @@
   },
   "active": "14a13e81ed398be4",
   "lastOpenFiles": [
-    "Untitled.md",
     "PDFs/Unit 01 The CPU.pdf",
+    "2022-09-11.md",
+    "Uncurated Notes/MUJ/Sem-1/Understanding PC and Troubleshooting/UNIT 1 CPU/E content.md",
+    "Untitled.md",
     "Templates/MUJ - pdf - note.md",
     "Templates/MUJ - pdf note.md",
     "Blogs/un.md",

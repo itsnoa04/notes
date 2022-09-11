@@ -364,3 +364,17 @@ annotation-target::https://github.com/itsnoa04/notes/raw/master/PDFs/Unit%2001%2
 >%%TAGS%%
 >
 ^0btj12znfjil
+
+
+>%%
+>```annotation-json
+>{"created":"2022-09-11T11:26:18.892Z","updated":"2022-09-11T11:26:18.892Z","document":{"title":"Unit 1 The CPU","link":[{"href":"urn:x-pdf:6e4bdd349aa47e48b892d50ee3cc8bee"},{"href":"https://github.com/itsnoa04/notes/raw/master/PDFs/Unit%2001%20The%20CPU.pdf"}],"documentFingerprint":"6e4bdd349aa47e48b892d50ee3cc8bee"},"uri":"https://github.com/itsnoa04/notes/raw/master/PDFs/Unit%2001%20The%20CPU.pdf","target":[{"source":"https://github.com/itsnoa04/notes/raw/master/PDFs/Unit%2001%20The%20CPU.pdf","selector":[{"type":"TextPositionSelector","start":8462,"end":8545},{"type":"TextQuoteSelector","exact":"CISC  (pronounced  ‘sisk’)  is  the  acronym  for Complex Instruction Set Computer.","prefix":"orld.  1.3.1 CISC vs RISC CPUs: ","suffix":"  Most  computers  use  CISC  be"}]}]}
+>```
+>%%
+>*%%PREFIX%%orld.  1.3.1 CISC vs RISC CPUs:%%HIGHLIGHT%% ==CISC  (pronounced  ‘sisk’)  is  the  acronym  for Complex Instruction Set Computer.== %%POSTFIX%%Most  computers  use  CISC  be*
+>%%LINK%%[[#^454z6dm75sr|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^454z6dm75sr
