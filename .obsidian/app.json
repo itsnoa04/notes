@@ -1,1 +1,6 @@
-{}
+{
+  "showUnsupportedFiles": true,
+  "attachmentFolderPath": "Assets",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "Notes"
+}

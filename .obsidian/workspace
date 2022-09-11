@@ -7,8 +7,13 @@
         "id": "d5aef9bcf9ab30a1",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Notes/Intro to 3D in web.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
         }
       }
     ],
@@ -73,6 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Notes/Intro to 3D in web.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Notes/Intro to 3D in web.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +117,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Notes/Intro to 3D in web.md"
+              }
             }
           }
         ]
@@ -120,15 +129,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d5aef9bcf9ab30a1",
+  "active": "e0314172579028d0",
   "lastOpenFiles": [
-    "Uncurated Notes/MUJ/Sem-1/Understanding PC and Troubleshooting/UNIT 1 CPU/E content.md",
-    "PDFs/Unit 01 The CPU.pdf",
-    "2022-09-11.md",
+    "Assets/Pasted image 20220911203734.png",
+    "Assets/Pasted image 20220911203334.png",
+    "Assets/Pasted image 20220911203549.png",
+    "Assets/Pasted image 20220911203721.png",
+    "Notes/GLSL.md",
+    "Notes/Intro to 3D in web.md",
     "Untitled.md",
-    "Templates/MUJ - pdf - note.md",
-    "Templates/MUJ - pdf note.md",
-    "Blogs/un.md",
-    "Excalidraw/Drawing 2022-09-11 15.27.24.excalidraw.md"
+    "Notes/MUJ/Sem-1/Understanding PC and Troubleshooting/UNIT 1 CPU/E content.md",
+    "PDFs/Unit 01 The CPU.pdf",
+    "2022-09-11.md"
   ]
 }
