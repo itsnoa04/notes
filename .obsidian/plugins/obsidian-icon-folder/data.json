@@ -1,0 +1,35 @@
+{
+  "settings": {
+    "migrated": true,
+    "iconPacksPath": ".obsidian/plugins/obsidian-icon-folder/icons",
+    "fontSize": 16,
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "RiFilePdfLine",
+      "FeVideo",
+      "RiFireLine",
+      "RiMap2Fill",
+      "RiStickyNoteLine"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [
+      {
+        "rule": "blog",
+        "icon": "FabBloggerB",
+        "for": "everything"
+      }
+    ],
+    "extraMargin": {
+      "top": 2,
+      "right": 2,
+      "bottom": 2,
+      "left": 2
+    }
+  },
+  "Blogs": "RiBookLine",
+  "Notes": "RiStickyNoteLine",
+  "Templates": "RiMap2Fill",
+  "Uncurated Notes": "RiFireLine",
+  "Videos": "FeVideo",
+  "PDFs": "RiFilePdfLine"
+}

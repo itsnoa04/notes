@@ -1,3 +1,16 @@
 [
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-annotator",
+  "better-word-count",
+  "code-block-copy",
+  "obsidian-dictionary-plugin",
+  "obsidian-excalidraw-plugin",
+  "obsidian-icon-folder",
+  "obsidian-icons-plugin",
+  "nldates-obsidian",
+  "obsidian-memos",
+  "obsidian-tabs",
+  "obsidian-reading-time",
+  "obsidian-share-as-gist",
+  "dataview"
 ]

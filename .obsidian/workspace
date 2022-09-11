@@ -4,11 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "dc40419a280255e1",
+        "id": "a63de3f889fc51e9",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Templates/MUJ - pdf - note.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
         }
       }
     ],
@@ -73,6 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Templates/MUJ - pdf - note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Templates/MUJ - pdf - note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +117,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Templates/MUJ - pdf - note.md"
+              }
             }
           }
         ]
@@ -120,6 +129,12 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "dc40419a280255e1",
-  "lastOpenFiles": []
+  "active": "a63de3f889fc51e9",
+  "lastOpenFiles": [
+    "Templates/MUJ - pdf - note.md",
+    "Templates/MUJ - pdf note.md",
+    "PDFs/Unit 01 The CPU.pdf",
+    "Blogs/un.md",
+    "Excalidraw/Drawing 2022-09-11 15.27.24.excalidraw.md"
+  ]
 }
