@@ -378,3 +378,370 @@ annotation-target::https://github.com/itsnoa04/notes/raw/master/PDFs/Unit%2001%2
 >%%TAGS%%
 >
 ^454z6dm75sr
+
+
+>%%
+>```annotation-json
+>{"created":"2022-09-11T11:57:16.285Z","updated":"2022-09-11T11:57:16.285Z","document":{"title":"Unit 1 The CPU","link":[{"href":"urn:x-pdf:6e4bdd349aa47e48b892d50ee3cc8bee"},{"href":"https://github.com/itsnoa04/notes/raw/master/PDFs/Unit%2001%20The%20CPU.pdf"}],"documentFingerprint":"6e4bdd349aa47e48b892d50ee3cc8bee"},"uri":"https://github.com/itsnoa04/notes/raw/master/PDFs/Unit%2001%20The%20CPU.pdf","target":[{"source":"https://github.com/itsnoa04/notes/raw/master/PDFs/Unit%2001%20The%20CPU.pdf","selector":[{"type":"TextPositionSelector","start":8569,"end":8753},{"type":"TextQuoteSelector","exact":"CISC  because  hardware  is  always  faster than software and an instruction set is made that is powerful and helps the programmers to use assembly level instructions with less coding.","prefix":"omputer.  Most  computers  use  ","suffix":"  RISC on the other hand is base"}]}]}
+>```
+>%%
+>*%%PREFIX%%omputer.  Most  computers  use%%HIGHLIGHT%% ==CISC  because  hardware  is  always  faster than software and an instruction set is made that is powerful and helps the programmers to use assembly level instructions with less coding.== %%POSTFIX%%RISC on the other hand is base*
+>%%LINK%%[[#^jslot24jhxh|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^jslot24jhxh
+
+
+>%%
+>```annotation-json
+>{"created":"2022-09-11T11:57:32.156Z","updated":"2022-09-11T11:57:32.156Z","document":{"title":"Unit 1 The CPU","link":[{"href":"urn:x-pdf:6e4bdd349aa47e48b892d50ee3cc8bee"},{"href":"https://github.com/itsnoa04/notes/raw/master/PDFs/Unit%2001%20The%20CPU.pdf"}],"documentFingerprint":"6e4bdd349aa47e48b892d50ee3cc8bee"},"uri":"https://github.com/itsnoa04/notes/raw/master/PDFs/Unit%2001%20The%20CPU.pdf","target":[{"source":"https://github.com/itsnoa04/notes/raw/master/PDFs/Unit%2001%20The%20CPU.pdf","selector":[{"type":"TextPositionSelector","start":8755,"end":8946},{"type":"TextQuoteSelector","exact":"RISC on the other hand is based on the philosophy that almost no one uses complex assembly  language  instructions,  and  people  mostly  use  compilers,  which never use complex instructions","prefix":"instructions with less coding.  ","suffix":". RISC (pronounced ‘risk’) is th"}]}]}
+>```
+>%%
+>*%%PREFIX%%instructions with less coding.%%HIGHLIGHT%% ==RISC on the other hand is based on the philosophy that almost no one uses complex assembly  language  instructions,  and  people  mostly  use  compilers,  which never use complex instructions== %%POSTFIX%%. RISC (pronounced ‘risk’) is th*
+>%%LINK%%[[#^z6buy87rrsi|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^z6buy87rrsi
+
+
+>%%
+>```annotation-json
+>{"created":"2022-09-11T11:57:36.650Z","updated":"2022-09-11T11:57:36.650Z","document":{"title":"Unit 1 The CPU","link":[{"href":"urn:x-pdf:6e4bdd349aa47e48b892d50ee3cc8bee"},{"href":"https://github.com/itsnoa04/notes/raw/master/PDFs/Unit%2001%20The%20CPU.pdf"}],"documentFingerprint":"6e4bdd349aa47e48b892d50ee3cc8bee"},"uri":"https://github.com/itsnoa04/notes/raw/master/PDFs/Unit%2001%20The%20CPU.pdf","target":[{"source":"https://github.com/itsnoa04/notes/raw/master/PDFs/Unit%2001%20The%20CPU.pdf","selector":[{"type":"TextPositionSelector","start":8946,"end":9028},{"type":"TextQuoteSelector","exact":". RISC (pronounced ‘risk’) is the acronym for Reduced  Instructions  Set  Computer","prefix":"h never use complex instructions","suffix":".  RISCs  are  mostly  used  in "}]}]}
+>```
+>%%
+>*%%PREFIX%%h never use complex instructions%%HIGHLIGHT%% ==. RISC (pronounced ‘risk’) is the acronym for Reduced  Instructions  Set  Computer== %%POSTFIX%%.  RISCs  are  mostly  used  in*
+>%%LINK%%[[#^r4c5hdl3r|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^r4c5hdl3r
+
+
+>%%
+>```annotation-json
+>{"created":"2022-09-11T11:57:47.890Z","updated":"2022-09-11T11:57:47.890Z","document":{"title":"Unit 1 The CPU","link":[{"href":"urn:x-pdf:6e4bdd349aa47e48b892d50ee3cc8bee"},{"href":"https://github.com/itsnoa04/notes/raw/master/PDFs/Unit%2001%20The%20CPU.pdf"}],"documentFingerprint":"6e4bdd349aa47e48b892d50ee3cc8bee"},"uri":"https://github.com/itsnoa04/notes/raw/master/PDFs/Unit%2001%20The%20CPU.pdf","target":[{"source":"https://github.com/itsnoa04/notes/raw/master/PDFs/Unit%2001%20The%20CPU.pdf","selector":[{"type":"TextPositionSelector","start":9030,"end":9082},{"type":"TextQuoteSelector","exact":" RISCs  are  mostly  used  in  high-end workstations","prefix":"d  Instructions  Set  Computer. ","suffix":". Understanding PC and Troublesh"}]}]}
+>```
+>%%
+>*%%PREFIX%%d  Instructions  Set  Computer.%%HIGHLIGHT%% ==RISCs  are  mostly  used  in  high-end workstations== %%POSTFIX%%. Understanding PC and Troublesh*
+>%%LINK%%[[#^dib8q6wjrr5|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^dib8q6wjrr5
+
+
+>%%
+>```annotation-json
+>{"created":"2022-09-11T11:57:56.070Z","updated":"2022-09-11T11:57:56.070Z","document":{"title":"Unit 1 The CPU","link":[{"href":"urn:x-pdf:6e4bdd349aa47e48b892d50ee3cc8bee"},{"href":"https://github.com/itsnoa04/notes/raw/master/PDFs/Unit%2001%20The%20CPU.pdf"}],"documentFingerprint":"6e4bdd349aa47e48b892d50ee3cc8bee"},"uri":"https://github.com/itsnoa04/notes/raw/master/PDFs/Unit%2001%20The%20CPU.pdf","target":[{"source":"https://github.com/itsnoa04/notes/raw/master/PDFs/Unit%2001%20The%20CPU.pdf","selector":[{"type":"TextPositionSelector","start":9183,"end":9216},{"type":"TextQuoteSelector","exact":"comparisons of CISC and RISC CPUs","prefix":"ur B1416 Page No.: 6 Table 1.2: ","suffix":" CISC RISC CISC chips are relati"}]}]}
+>```
+>%%
+>*%%PREFIX%%ur B1416 Page No.: 6 Table 1.2:%%HIGHLIGHT%% ==comparisons of CISC and RISC CPUs== %%POSTFIX%%CISC RISC CISC chips are relati*
+>%%LINK%%[[#^3ux6t9a10h8|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^3ux6t9a10h8
+
+
+>%%
+>```annotation-json
+>{"created":"2022-09-11T11:58:24.063Z","updated":"2022-09-11T11:58:24.063Z","document":{"title":"Unit 1 The CPU","link":[{"href":"urn:x-pdf:6e4bdd349aa47e48b892d50ee3cc8bee"},{"href":"https://github.com/itsnoa04/notes/raw/master/PDFs/Unit%2001%20The%20CPU.pdf"}],"documentFingerprint":"6e4bdd349aa47e48b892d50ee3cc8bee"},"uri":"https://github.com/itsnoa04/notes/raw/master/PDFs/Unit%2001%20The%20CPU.pdf","target":[{"source":"https://github.com/itsnoa04/notes/raw/master/PDFs/Unit%2001%20The%20CPU.pdf","selector":[{"type":"TextPositionSelector","start":9670,"end":9767},{"type":"TextQuoteSelector","exact":" Circuit  size  is  like  scaling  the  processor model or drawing the miniature of the processor","prefix":" Circuit  size  and  Die  size: ","suffix":". In order to make powerful proc"}]}]}
+>```
+>%%
+>*%%PREFIX%%Circuit  size  and  Die  size:%%HIGHLIGHT%% ==Circuit  size  is  like  scaling  the  processor model or drawing the miniature of the processor== %%POSTFIX%%. In order to make powerful proc*
+>%%LINK%%[[#^barglz62dl|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^barglz62dl
+
+
+>%%
+>```annotation-json
+>{"created":"2022-09-11T11:58:44.501Z","updated":"2022-09-11T11:58:44.501Z","document":{"title":"Unit 1 The CPU","link":[{"href":"urn:x-pdf:6e4bdd349aa47e48b892d50ee3cc8bee"},{"href":"https://github.com/itsnoa04/notes/raw/master/PDFs/Unit%2001%20The%20CPU.pdf"}],"documentFingerprint":"6e4bdd349aa47e48b892d50ee3cc8bee"},"uri":"https://github.com/itsnoa04/notes/raw/master/PDFs/Unit%2001%20The%20CPU.pdf","target":[{"source":"https://github.com/itsnoa04/notes/raw/master/PDFs/Unit%2001%20The%20CPU.pdf","selector":[{"type":"TextPositionSelector","start":9966,"end":10091},{"type":"TextQuoteSelector","exact":"The maximum shrinking can be done up to 1 micron but the recent processors can use even as less as 0.18 micron circuit size. ","prefix":"egrated  circuit  fabrications. ","suffix":" The Die size is the physical su"}]}]}
+>```
+>%%
+>*%%PREFIX%%egrated  circuit  fabrications.%%HIGHLIGHT%% ==The maximum shrinking can be done up to 1 micron but the recent processors can use even as less as 0.18 micron circuit size.== %%POSTFIX%%The Die size is the physical su*
+>%%LINK%%[[#^3wfscgcqtus|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^3wfscgcqtus
+
+
+>%%
+>```annotation-json
+>{"created":"2022-09-11T11:58:57.660Z","updated":"2022-09-11T11:58:57.660Z","document":{"title":"Unit 1 The CPU","link":[{"href":"urn:x-pdf:6e4bdd349aa47e48b892d50ee3cc8bee"},{"href":"https://github.com/itsnoa04/notes/raw/master/PDFs/Unit%2001%20The%20CPU.pdf"}],"documentFingerprint":"6e4bdd349aa47e48b892d50ee3cc8bee"},"uri":"https://github.com/itsnoa04/notes/raw/master/PDFs/Unit%2001%20The%20CPU.pdf","target":[{"source":"https://github.com/itsnoa04/notes/raw/master/PDFs/Unit%2001%20The%20CPU.pdf","selector":[{"type":"TextPositionSelector","start":10092,"end":10261},{"type":"TextQuoteSelector","exact":"The Die size is the physical surface area, which means the area of the chip and measure in square millimeters (mm2). It is the term used for wafer made out  of  silicon.","prefix":"s as 0.18 micron circuit size.  ","suffix":"  Smaller  the  size  of  the  w"}]}]}
+>```
+>%%
+>*%%PREFIX%%s as 0.18 micron circuit size.%%HIGHLIGHT%% ==The Die size is the physical surface area, which means the area of the chip and measure in square millimeters (mm2). It is the term used for wafer made out  of  silicon.== %%POSTFIX%%Smaller  the  size  of  the  w*
+>%%LINK%%[[#^auh7dltec6q|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^auh7dltec6q
+
+
+>%%
+>```annotation-json
+>{"created":"2022-09-11T11:59:13.338Z","updated":"2022-09-11T11:59:13.338Z","document":{"title":"Unit 1 The CPU","link":[{"href":"urn:x-pdf:6e4bdd349aa47e48b892d50ee3cc8bee"},{"href":"https://github.com/itsnoa04/notes/raw/master/PDFs/Unit%2001%20The%20CPU.pdf"}],"documentFingerprint":"6e4bdd349aa47e48b892d50ee3cc8bee"},"uri":"https://github.com/itsnoa04/notes/raw/master/PDFs/Unit%2001%20The%20CPU.pdf","target":[{"source":"https://github.com/itsnoa04/notes/raw/master/PDFs/Unit%2001%20The%20CPU.pdf","selector":[{"type":"TextPositionSelector","start":10369,"end":10535},{"type":"TextQuoteSelector","exact":"Smaller  die  size  will  also  help  in getting  more  chips  on  single  wafer  and  reduce  the  manufacturing  cost  and also relatively reduce power consumption.","prefix":"which  increases  performance.  ","suffix":"  1.3.3 Processor Speed: The  pr"}]}]}
+>```
+>%%
+>*%%PREFIX%%which  increases  performance.%%HIGHLIGHT%% ==Smaller  die  size  will  also  help  in getting  more  chips  on  single  wafer  and  reduce  the  manufacturing  cost  and also relatively reduce power consumption.== %%POSTFIX%%1.3.3 Processor Speed: The  pr*
+>%%LINK%%[[#^gobcq12qii9|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^gobcq12qii9
+
+
+>%%
+>```annotation-json
+>{"created":"2022-09-11T11:59:33.087Z","updated":"2022-09-11T11:59:33.087Z","document":{"title":"Unit 1 The CPU","link":[{"href":"urn:x-pdf:6e4bdd349aa47e48b892d50ee3cc8bee"},{"href":"https://github.com/itsnoa04/notes/raw/master/PDFs/Unit%2001%20The%20CPU.pdf"}],"documentFingerprint":"6e4bdd349aa47e48b892d50ee3cc8bee"},"uri":"https://github.com/itsnoa04/notes/raw/master/PDFs/Unit%2001%20The%20CPU.pdf","target":[{"source":"https://github.com/itsnoa04/notes/raw/master/PDFs/Unit%2001%20The%20CPU.pdf","selector":[{"type":"TextPositionSelector","start":10560,"end":10707},{"type":"TextQuoteSelector","exact":"The  processor  speed  depends  upon  different  factors  like,  circuit  size,  die size, processor type, type of chip used, instructions set, etc","prefix":"mption.  1.3.3 Processor Speed: ","suffix":". On observation you will find t"}]}]}
+>```
+>%%
+>*%%PREFIX%%mption.  1.3.3 Processor Speed:%%HIGHLIGHT%% ==The  processor  speed  depends  upon  different  factors  like,  circuit  size,  die size, processor type, type of chip used, instructions set, etc== %%POSTFIX%%. On observation you will find t*
+>%%LINK%%[[#^y2mvys43dgj|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^y2mvys43dgj
+
+
+>%%
+>```annotation-json
+>{"created":"2022-09-11T11:59:56.668Z","updated":"2022-09-11T11:59:56.668Z","document":{"title":"Unit 1 The CPU","link":[{"href":"urn:x-pdf:6e4bdd349aa47e48b892d50ee3cc8bee"},{"href":"https://github.com/itsnoa04/notes/raw/master/PDFs/Unit%2001%20The%20CPU.pdf"}],"documentFingerprint":"6e4bdd349aa47e48b892d50ee3cc8bee"},"uri":"https://github.com/itsnoa04/notes/raw/master/PDFs/Unit%2001%20The%20CPU.pdf","target":[{"source":"https://github.com/itsnoa04/notes/raw/master/PDFs/Unit%2001%20The%20CPU.pdf","selector":[{"type":"TextPositionSelector","start":11147,"end":11265},{"type":"TextQuoteSelector","exact":"Smaller  the  chips  faster  will  be  the  processing  speed  due  to  shortersignals flow and less power consumption","prefix":"ve its influence on the speed. ","suffix":".Understanding PC and Troublesho"}]}]}
+>```
+>%%
+>*%%PREFIX%%ve its influence on the speed.%%HIGHLIGHT%% ==Smaller  the  chips  faster  will  be  the  processing  speed  due  to  shortersignals flow and less power consumption== %%POSTFIX%%.Understanding PC and Troublesho*
+>%%LINK%%[[#^onijjfwc3ba|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^onijjfwc3ba
+
+
+>%%
+>```annotation-json
+>{"created":"2022-09-11T12:00:08.454Z","updated":"2022-09-11T12:00:08.454Z","document":{"title":"Unit 1 The CPU","link":[{"href":"urn:x-pdf:6e4bdd349aa47e48b892d50ee3cc8bee"},{"href":"https://github.com/itsnoa04/notes/raw/master/PDFs/Unit%2001%20The%20CPU.pdf"}],"documentFingerprint":"6e4bdd349aa47e48b892d50ee3cc8bee"},"uri":"https://github.com/itsnoa04/notes/raw/master/PDFs/Unit%2001%20The%20CPU.pdf","target":[{"source":"https://github.com/itsnoa04/notes/raw/master/PDFs/Unit%2001%20The%20CPU.pdf","selector":[{"type":"TextPositionSelector","start":11409,"end":11487},{"type":"TextQuoteSelector","exact":"As the chips get overheated, it locks itself, thus slowing down the processor.","prefix":"tant factor that affects speed. ","suffix":" Due to some manufacturing diff"}]}]}
+>```
+>%%
+>*%%PREFIX%%tant factor that affects speed.%%HIGHLIGHT%% ==As the chips get overheated, it locks itself, thus slowing down the processor.== %%POSTFIX%% Due to some manufacturing diff*
+>%%LINK%%[[#^ou3gpm33m2q|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^ou3gpm33m2q
+
+
+
+>%%
+>```annotation-json
+>{"created":"2022-09-11T12:00:58.070Z","updated":"2022-09-11T12:00:58.070Z","document":{"title":"Unit 1 The CPU","link":[{"href":"urn:x-pdf:6e4bdd349aa47e48b892d50ee3cc8bee"},{"href":"https://github.com/itsnoa04/notes/raw/master/PDFs/Unit%2001%20The%20CPU.pdf"}],"documentFingerprint":"6e4bdd349aa47e48b892d50ee3cc8bee"},"uri":"https://github.com/itsnoa04/notes/raw/master/PDFs/Unit%2001%20The%20CPU.pdf","target":[{"source":"https://github.com/itsnoa04/notes/raw/master/PDFs/Unit%2001%20The%20CPU.pdf","selector":[{"type":"TextPositionSelector","start":11756,"end":12063},{"type":"TextQuoteSelector","exact":"heat thus generated will give rise to many serious problems in the processor like system crash, unexpected rebooting, lockups  etc.  This  sometimes  results  in  memory  errors,  application  errors, disk  errors  etc.  Although  repeated  overheating  of  processor  may  rarely result in permanent damage","prefix":"hey are switched on or off. The ","suffix":", it is difficult to identify th"}]}]}
+>```
+>%%
+>*%%PREFIX%%hey are switched on or off. The%%HIGHLIGHT%% ==heat thus generated will give rise to many serious problems in the processor like system crash, unexpected rebooting, lockups  etc.  This  sometimes  results  in  memory  errors,  application  errors, disk  errors  etc.  Although  repeated  overheating  of  processor  may  rarely result in permanent damage== %%POSTFIX%%, it is difficult to identify th*
+>%%LINK%%[[#^e3oj6j6gebg|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^e3oj6j6gebg
+
+
+
+>%%
+>```annotation-json
+>{"created":"2022-09-11T12:01:34.853Z","updated":"2022-09-11T12:01:34.853Z","document":{"title":"Unit 1 The CPU","link":[{"href":"urn:x-pdf:6e4bdd349aa47e48b892d50ee3cc8bee"},{"href":"https://github.com/itsnoa04/notes/raw/master/PDFs/Unit%2001%20The%20CPU.pdf"}],"documentFingerprint":"6e4bdd349aa47e48b892d50ee3cc8bee"},"uri":"https://github.com/itsnoa04/notes/raw/master/PDFs/Unit%2001%20The%20CPU.pdf","target":[{"source":"https://github.com/itsnoa04/notes/raw/master/PDFs/Unit%2001%20The%20CPU.pdf","selector":[{"type":"TextPositionSelector","start":12439,"end":12498},{"type":"TextQuoteSelector","exact":" processors  are  usually  cooled  by  active  heat  sinks.","prefix":"hods  have  to  be adopted  the ","suffix":"  An  active heat  sink  is  mad"}]}]}
+>```
+>%%
+>*%%PREFIX%%hods  have  to  be adopted  the%%HIGHLIGHT%% ==processors  are  usually  cooled  by  active  heat  sinks.== %%POSTFIX%%An  active heat  sink  is  mad*
+>%%LINK%%[[#^fddbigfffft|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^fddbigfffft
+
+
+>%%
+>```annotation-json
+>{"created":"2022-09-11T12:01:55.247Z","updated":"2022-09-11T12:01:55.247Z","document":{"title":"Unit 1 The CPU","link":[{"href":"urn:x-pdf:6e4bdd349aa47e48b892d50ee3cc8bee"},{"href":"https://github.com/itsnoa04/notes/raw/master/PDFs/Unit%2001%20The%20CPU.pdf"}],"documentFingerprint":"6e4bdd349aa47e48b892d50ee3cc8bee"},"uri":"https://github.com/itsnoa04/notes/raw/master/PDFs/Unit%2001%20The%20CPU.pdf","target":[{"source":"https://github.com/itsnoa04/notes/raw/master/PDFs/Unit%2001%20The%20CPU.pdf","selector":[{"type":"TextPositionSelector","start":12500,"end":12948},{"type":"TextQuoteSelector","exact":"An  active heat  sink  is  made  up  of  fans  which  are  mounted  on  a  metal  sink  with  the help of fins. However, the problem with an active sink is that when the fans stop  working  then  the  heat  generated  by  processor  will  be  very  high. Therefore  tachometers  are  integrated  into  it  to  raise  an  alarm  in  case  of accident  due  to  heat  damage.  This  warning  will  help  in  addressing  fan failure issue immediately.","prefix":"oled  by  active  heat  sinks.  ","suffix":" 1.3.5 System Clocks: A  system "}]}]}
+>```
+>%%
+>*%%PREFIX%%oled  by  active  heat  sinks.%%HIGHLIGHT%% ==An  active heat  sink  is  made  up  of  fans  which  are  mounted  on  a  metal  sink  with  the help of fins. However, the problem with an active sink is that when the fans stop  working  then  the  heat  generated  by  processor  will  be  very  high. Therefore  tachometers  are  integrated  into  it  to  raise  an  alarm  in  case  of accident  due  to  heat  damage.  This  warning  will  help  in  addressing  fan failure issue immediately.== %%POSTFIX%%1.3.5 System Clocks: A  system*
+>%%LINK%%[[#^znd8a0t21cl|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^znd8a0t21cl
+
+
+>%%
+>```annotation-json
+>{"created":"2022-09-11T12:03:09.350Z","updated":"2022-09-11T12:03:09.350Z","document":{"title":"Unit 1 The CPU","link":[{"href":"urn:x-pdf:6e4bdd349aa47e48b892d50ee3cc8bee"},{"href":"https://github.com/itsnoa04/notes/raw/master/PDFs/Unit%2001%20The%20CPU.pdf"}],"documentFingerprint":"6e4bdd349aa47e48b892d50ee3cc8bee"},"uri":"https://github.com/itsnoa04/notes/raw/master/PDFs/Unit%2001%20The%20CPU.pdf","target":[{"source":"https://github.com/itsnoa04/notes/raw/master/PDFs/Unit%2001%20The%20CPU.pdf","selector":[{"type":"TextPositionSelector","start":12970,"end":13342},{"type":"TextQuoteSelector","exact":"A  system  clock  is  used  to  drive  the  circuits  in  the  PC.  The  smallest  unit  of time in which the processing takes place is known as one cycle. The unit to measure it in terms of frequency is MHz.  In older PCs there used to be only one system clock to drive the processing. However, modern PCs use many such  clocks  (may  be  four  or  five)  for  processing","prefix":"mediately. 1.3.5 System Clocks: ","suffix":";  each  of  them  running  at d"}]}]}
+>```
+>%%
+>*%%PREFIX%%mediately. 1.3.5 System Clocks:%%HIGHLIGHT%% ==A  system  clock  is  used  to  drive  the  circuits  in  the  PC.  The  smallest  unit  of time in which the processing takes place is known as one cycle. The unit to measure it in terms of frequency is MHz.  In older PCs there used to be only one system clock to drive the processing. However, modern PCs use many such  clocks  (may  be  four  or  five)  for  processing== %%POSTFIX%%;  each  of  them  running  at d*
+>%%LINK%%[[#^y4qo0iln79e|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^y4qo0iln79e
+
+
+>%%
+>```annotation-json
+>{"created":"2022-09-11T12:03:17.875Z","updated":"2022-09-11T12:03:17.875Z","document":{"title":"Unit 1 The CPU","link":[{"href":"urn:x-pdf:6e4bdd349aa47e48b892d50ee3cc8bee"},{"href":"https://github.com/itsnoa04/notes/raw/master/PDFs/Unit%2001%20The%20CPU.pdf"}],"documentFingerprint":"6e4bdd349aa47e48b892d50ee3cc8bee"},"uri":"https://github.com/itsnoa04/notes/raw/master/PDFs/Unit%2001%20The%20CPU.pdf","target":[{"source":"https://github.com/itsnoa04/notes/raw/master/PDFs/Unit%2001%20The%20CPU.pdf","selector":[{"type":"TextPositionSelector","start":13390,"end":13474},{"type":"TextQuoteSelector","exact":" System clock is referred to the speed of the memory BUS running on the motherboard.","prefix":"m  running  at different speeds.","suffix":" In  order  to  generate  the  s"}]}]}
+>```
+>%%
+>*%%PREFIX%%m  running  at different speeds.%%HIGHLIGHT%% ==System clock is referred to the speed of the memory BUS running on the motherboard.== %%POSTFIX%%In  order  to  generate  the  s*
+>%%LINK%%[[#^skny46iusqb|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^skny46iusqb
+
+
+>%%
+>```annotation-json
+>{"created":"2022-09-11T12:03:34.961Z","updated":"2022-09-11T12:03:34.961Z","document":{"title":"Unit 1 The CPU","link":[{"href":"urn:x-pdf:6e4bdd349aa47e48b892d50ee3cc8bee"},{"href":"https://github.com/itsnoa04/notes/raw/master/PDFs/Unit%2001%20The%20CPU.pdf"}],"documentFingerprint":"6e4bdd349aa47e48b892d50ee3cc8bee"},"uri":"https://github.com/itsnoa04/notes/raw/master/PDFs/Unit%2001%20The%20CPU.pdf","target":[{"source":"https://github.com/itsnoa04/notes/raw/master/PDFs/Unit%2001%20The%20CPU.pdf","selector":[{"type":"TextPositionSelector","start":13708,"end":13835},{"type":"TextQuoteSelector","exact":"Table 1.3 gives you the detailed arrangement in clocks in 266 MHz Pentium II PC and the relationship that exists between them. ","prefix":"lock signals for these clocks.  ","suffix":"Understanding PC and Troubleshoo"}]}]}
+>```
+>%%
+>*%%PREFIX%%lock signals for these clocks.%%HIGHLIGHT%% ==Table 1.3 gives you the detailed arrangement in clocks in 266 MHz Pentium II PC and the relationship that exists between them.== %%POSTFIX%%Understanding PC and Troubleshoo*
+>%%LINK%%[[#^ph8cgc044r|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^ph8cgc044r
+
+
+>%%
+>```annotation-json
+>{"created":"2022-09-11T12:03:59.764Z","updated":"2022-09-11T12:03:59.764Z","document":{"title":"Unit 1 The CPU","link":[{"href":"urn:x-pdf:6e4bdd349aa47e48b892d50ee3cc8bee"},{"href":"https://github.com/itsnoa04/notes/raw/master/PDFs/Unit%2001%20The%20CPU.pdf"}],"documentFingerprint":"6e4bdd349aa47e48b892d50ee3cc8bee"},"uri":"https://github.com/itsnoa04/notes/raw/master/PDFs/Unit%2001%20The%20CPU.pdf","target":[{"source":"https://github.com/itsnoa04/notes/raw/master/PDFs/Unit%2001%20The%20CPU.pdf","selector":[{"type":"TextPositionSelector","start":14150,"end":14356},{"type":"TextQuoteSelector","exact":"The  entire  system  speed  relates  to  the  speed  of  the  clock  system.  This  is why  it  is  very  important  to  increase  the  speed  of  the  system  clock  rather than the speed of the processor.","prefix":"ock / 2 ISA BUS 8.3 PCI BUS / 4 ","suffix":" This is because whatever the sp"}]}]}
+>```
+>%%
+>*%%PREFIX%%ock / 2 ISA BUS 8.3 PCI BUS / 4%%HIGHLIGHT%% ==The  entire  system  speed  relates  to  the  speed  of  the  clock  system.  This  is why  it  is  very  important  to  increase  the  speed  of  the  system  clock  rather than the speed of the processor.== %%POSTFIX%%This is because whatever the sp*
+>%%LINK%%[[#^1eknm9y92bh|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^1eknm9y92bh
+
+
+>%%
+>```annotation-json
+>{"created":"2022-09-11T12:04:58.269Z","updated":"2022-09-11T12:04:58.269Z","document":{"title":"Unit 1 The CPU","link":[{"href":"urn:x-pdf:6e4bdd349aa47e48b892d50ee3cc8bee"},{"href":"https://github.com/itsnoa04/notes/raw/master/PDFs/Unit%2001%20The%20CPU.pdf"}],"documentFingerprint":"6e4bdd349aa47e48b892d50ee3cc8bee"},"uri":"https://github.com/itsnoa04/notes/raw/master/PDFs/Unit%2001%20The%20CPU.pdf","target":[{"source":"https://github.com/itsnoa04/notes/raw/master/PDFs/Unit%2001%20The%20CPU.pdf","selector":[{"type":"TextPositionSelector","start":14793,"end":14885},{"type":"TextQuoteSelector","exact":"Superscalar  Architecture:  This  architecture  implements  a  base  forparallel  computing.","prefix":"enhancement  are  as follows:  ","suffix":"  This  is  the  measure  of  th"}]}]}
+>```
+>%%
+>*%%PREFIX%%enhancement  are  as follows: %%HIGHLIGHT%% ==Superscalar  Architecture:  This  architecture  implements  a  base  forparallel  computing.== %%POSTFIX%%This  is  the  measure  of  th*
+>%%LINK%%[[#^fjdtfjmds6r|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^fjdtfjmds6r
+
+
+>%%
+>```annotation-json
+>{"created":"2022-09-11T12:05:04.763Z","updated":"2022-09-11T12:05:04.763Z","document":{"title":"Unit 1 The CPU","link":[{"href":"urn:x-pdf:6e4bdd349aa47e48b892d50ee3cc8bee"},{"href":"https://github.com/itsnoa04/notes/raw/master/PDFs/Unit%2001%20The%20CPU.pdf"}],"documentFingerprint":"6e4bdd349aa47e48b892d50ee3cc8bee"},"uri":"https://github.com/itsnoa04/notes/raw/master/PDFs/Unit%2001%20The%20CPU.pdf","target":[{"source":"https://github.com/itsnoa04/notes/raw/master/PDFs/Unit%2001%20The%20CPU.pdf","selector":[{"type":"TextPositionSelector","start":14887,"end":15034},{"type":"TextQuoteSelector","exact":"This  is  the  measure  of  the  number  of  operationsexecuted  in  a  computer  simultaneously.  This  is  called  Instruction  levelparallelism.","prefix":" base  forparallel  computing.  ","suffix":"  The  main  capability  of  CPU"}]}]}
+>```
+>%%
+>*%%PREFIX%%base  forparallel  computing.%%HIGHLIGHT%% ==This  is  the  measure  of  the  number  of  operationsexecuted  in  a  computer  simultaneously.  This  is  called  Instruction  levelparallelism.== %%POSTFIX%%The  main  capability  of  CPU*
+>%%LINK%%[[#^yela75s84vg|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^yela75s84vg
+
+
+>%%
+>```annotation-json
+>{"created":"2022-09-11T12:05:50.835Z","updated":"2022-09-11T12:05:50.835Z","document":{"title":"Unit 1 The CPU","link":[{"href":"urn:x-pdf:6e4bdd349aa47e48b892d50ee3cc8bee"},{"href":"https://github.com/itsnoa04/notes/raw/master/PDFs/Unit%2001%20The%20CPU.pdf"}],"documentFingerprint":"6e4bdd349aa47e48b892d50ee3cc8bee"},"uri":"https://github.com/itsnoa04/notes/raw/master/PDFs/Unit%2001%20The%20CPU.pdf","target":[{"source":"https://github.com/itsnoa04/notes/raw/master/PDFs/Unit%2001%20The%20CPU.pdf","selector":[{"type":"TextPositionSelector","start":15375,"end":15682},{"type":"TextQuoteSelector","exact":" Pipelining  a  technique  to  construct  faster  CPUs.  Usingpipelining  you  can  execute  more  than  one  operation  at  a  time.  Whenone instruction is already in execution state, the pipelining allowsanother  instruction  to  start  execution  while  the  first  instruction  is  stillbeing executed.","prefix":"in the CPU itself. Pipelining: ","suffix":" This helps in working out many "}]}]}
+>```
+>%%
+>*%%PREFIX%%in the CPU itself. Pipelining:%%HIGHLIGHT%% ==Pipelining  a  technique  to  construct  faster  CPUs.  Usingpipelining  you  can  execute  more  than  one  operation  at  a  time.  Whenone instruction is already in execution state, the pipelining allowsanother  instruction  to  start  execution  while  the  first  instruction  is  stillbeing executed.== %%POSTFIX%%This helps in working out many*
+>%%LINK%%[[#^a3s4x7munsv|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^a3s4x7munsv
+
+
+>%%
+>```annotation-json
+>{"created":"2022-09-11T12:06:23.959Z","updated":"2022-09-11T12:06:23.959Z","document":{"title":"Unit 1 The CPU","link":[{"href":"urn:x-pdf:6e4bdd349aa47e48b892d50ee3cc8bee"},{"href":"https://github.com/itsnoa04/notes/raw/master/PDFs/Unit%2001%20The%20CPU.pdf"}],"documentFingerprint":"6e4bdd349aa47e48b892d50ee3cc8bee"},"uri":"https://github.com/itsnoa04/notes/raw/master/PDFs/Unit%2001%20The%20CPU.pdf","target":[{"source":"https://github.com/itsnoa04/notes/raw/master/PDFs/Unit%2001%20The%20CPU.pdf","selector":[{"type":"TextPositionSelector","start":16236,"end":16473},{"type":"TextQuoteSelector","exact":"Super  Pipelining  is  similar  to  normal  pipelining  butwith  series  of  operations  are  unblocked  so  that  as  many  instructionsexecute  at  a  single  clock time.  This  is  an  enhancement  over  the  earliersimple pipelining.","prefix":"ock cycle. Super  Pipelining:  ","suffix":" As you are aware a CPU works on"}]}]}
+>```
+>%%
+>*%%PREFIX%%ock cycle. Super  Pipelining:%%HIGHLIGHT%% ==Super  Pipelining  is  similar  to  normal  pipelining  butwith  series  of  operations  are  unblocked  so  that  as  many  instructionsexecute  at  a  single  clock time.  This  is  an  enhancement  over  the  earliersimple pipelining.== %%POSTFIX%%As you are aware a CPU works on*
+>%%LINK%%[[#^z0lux8uagpj|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^z0lux8uagpj
+
+
+>%%
+>```annotation-json
+>{"created":"2022-09-11T12:06:51.974Z","updated":"2022-09-11T12:06:51.974Z","document":{"title":"Unit 1 The CPU","link":[{"href":"urn:x-pdf:6e4bdd349aa47e48b892d50ee3cc8bee"},{"href":"https://github.com/itsnoa04/notes/raw/master/PDFs/Unit%2001%20The%20CPU.pdf"}],"documentFingerprint":"6e4bdd349aa47e48b892d50ee3cc8bee"},"uri":"https://github.com/itsnoa04/notes/raw/master/PDFs/Unit%2001%20The%20CPU.pdf","target":[{"source":"https://github.com/itsnoa04/notes/raw/master/PDFs/Unit%2001%20The%20CPU.pdf","selector":[{"type":"TextPositionSelector","start":16526,"end":16747},{"type":"TextQuoteSelector","exact":"If we make the pipelines longer which is nothing butincreasing the  number  of  stages, then  each  step  will  perform  less  workso  that  the  processor  can  be  scaled  to  high  frequency.  This  is  superpipelining","prefix":"PU works on pipeliningconcepts. ","suffix":". Speculative Execution and Bra"}]}]}
+>```
+>%%
+>*%%PREFIX%%PU works on pipeliningconcepts.%%HIGHLIGHT%% ==If we make the pipelines longer which is nothing butincreasing the  number  of  stages, then  each  step  will  perform  less  workso  that  the  processor  can  be  scaled  to  high  frequency.  This  is  superpipelining== %%POSTFIX%%. Speculative Execution and Bra*
+>%%LINK%%[[#^raodi5sibij|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^raodi5sibij
+
+
+>%%
+>```annotation-json
+>{"created":"2022-09-11T12:07:07.563Z","updated":"2022-09-11T12:07:07.563Z","document":{"title":"Unit 1 The CPU","link":[{"href":"urn:x-pdf:6e4bdd349aa47e48b892d50ee3cc8bee"},{"href":"https://github.com/itsnoa04/notes/raw/master/PDFs/Unit%2001%20The%20CPU.pdf"}],"documentFingerprint":"6e4bdd349aa47e48b892d50ee3cc8bee"},"uri":"https://github.com/itsnoa04/notes/raw/master/PDFs/Unit%2001%20The%20CPU.pdf","target":[{"source":"https://github.com/itsnoa04/notes/raw/master/PDFs/Unit%2001%20The%20CPU.pdf","selector":[{"type":"TextPositionSelector","start":16795,"end":16916},{"type":"TextQuoteSelector","exact":"Speculative executionand branch prediction is used to give the probable prediction onbranching the instruction in the CPU","prefix":"xecution and Branch Prediction: ","suffix":". The basic difficulty in pipeli"}]}]}
+>```
+>%%
+>*%%PREFIX%%xecution and Branch Prediction:%%HIGHLIGHT%% ==Speculative executionand branch prediction is used to give the probable prediction onbranching the instruction in the CPU== %%POSTFIX%%. The basic difficulty in pipeli*
+>%%LINK%%[[#^sdho4qyj9pc|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^sdho4qyj9pc
+
+
+
+>%%
+>```annotation-json
+>{"created":"2022-09-11T12:08:04.978Z","updated":"2022-09-11T12:08:04.978Z","document":{"title":"Unit 1 The CPU","link":[{"href":"urn:x-pdf:6e4bdd349aa47e48b892d50ee3cc8bee"},{"href":"https://github.com/itsnoa04/notes/raw/master/PDFs/Unit%2001%20The%20CPU.pdf"}],"documentFingerprint":"6e4bdd349aa47e48b892d50ee3cc8bee"},"uri":"https://github.com/itsnoa04/notes/raw/master/PDFs/Unit%2001%20The%20CPU.pdf","target":[{"source":"https://github.com/itsnoa04/notes/raw/master/PDFs/Unit%2001%20The%20CPU.pdf","selector":[{"type":"TextPositionSelector","start":17366,"end":17530},{"type":"TextQuoteSelector","exact":" CPU  must  be  able  to  jump  speculatively  to  thenext instruction when the branches come in the instruction. This can beachieved  by  predicting  the  branches","prefix":"  cannotbe  maintained  always. ","suffix":".    Examples  of  branches  may"}]}]}
+>```
+>%%
+>*%%PREFIX%%cannotbe  maintained  always.%%HIGHLIGHT%% ==CPU  must  be  able  to  jump  speculatively  to  thenext instruction when the branches come in the instruction. This can beachieved  by  predicting  the  branches== %%POSTFIX%%.    Examples  of  branches  may*
+>%%LINK%%[[#^diiy50cvtg|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^diiy50cvtg

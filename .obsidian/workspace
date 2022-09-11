@@ -4,13 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "14a13e81ed398be4",
+        "id": "d5aef9bcf9ab30a1",
         "type": "leaf",
         "state": {
-          "type": "pdf-annotator",
-          "state": {
-            "file": "Uncurated Notes/MUJ/Sem-1/Understanding PC and Troubleshooting/UNIT 1 CPU/E content.md"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -75,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Uncurated Notes/MUJ/Sem-1/Understanding PC and Troubleshooting/UNIT 1 CPU/E content.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,7 +89,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Uncurated Notes/MUJ/Sem-1/Understanding PC and Troubleshooting/UNIT 1 CPU/E content.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -114,9 +110,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Uncurated Notes/MUJ/Sem-1/Understanding PC and Troubleshooting/UNIT 1 CPU/E content.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -126,11 +120,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "14a13e81ed398be4",
+  "active": "d5aef9bcf9ab30a1",
   "lastOpenFiles": [
+    "Uncurated Notes/MUJ/Sem-1/Understanding PC and Troubleshooting/UNIT 1 CPU/E content.md",
     "PDFs/Unit 01 The CPU.pdf",
     "2022-09-11.md",
-    "Uncurated Notes/MUJ/Sem-1/Understanding PC and Troubleshooting/UNIT 1 CPU/E content.md",
     "Untitled.md",
     "Templates/MUJ - pdf - note.md",
     "Templates/MUJ - pdf note.md",
