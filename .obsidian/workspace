@@ -7,10 +7,18 @@
         "id": "a63de3f889fc51e9",
         "type": "leaf",
         "state": {
-          "type": "pdf-annotator",
+          "type": "pdf",
           "state": {
-            "file": "Templates/MUJ - pdf - note.md"
+            "file": "PDFs/Unit 01 The CPU.pdf"
           }
+        }
+      },
+      {
+        "id": "14a13e81ed398be4",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -75,7 +83,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/MUJ - pdf - note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,7 +99,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/MUJ - pdf - note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -114,9 +120,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Templates/MUJ - pdf - note.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -126,11 +130,12 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "a63de3f889fc51e9",
+  "active": "e0314172579028d0",
   "lastOpenFiles": [
-    "Templates/MUJ - pdf - note.md",
-    "Templates/MUJ - pdf note.md",
     "PDFs/Unit 01 The CPU.pdf",
+    "Templates/MUJ - pdf - note.md",
+    "Untitled.md",
+    "Templates/MUJ - pdf note.md",
     "Blogs/un.md",
     "Excalidraw/Drawing 2022-09-11 15.27.24.excalidraw.md"
   ]
