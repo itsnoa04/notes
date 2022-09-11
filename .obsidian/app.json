@@ -2,5 +2,6 @@
   "showUnsupportedFiles": true,
   "attachmentFolderPath": "Assets",
   "newFileLocation": "folder",
-  "newFileFolderPath": "Notes"
+  "newFileFolderPath": "Notes",
+  "alwaysUpdateLinks": true
 }

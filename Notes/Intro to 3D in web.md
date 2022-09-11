@@ -16,7 +16,7 @@ vertex shader -> responcible for positioning vertices and hence forming meshes.
 
 fragment shades -> responsible for colorising the vertices
 
-[[GLSL]] ES is a programing language ( syntatically symillar to c ) used to write shaders
+[[Notes/GLSL]] ES is a programing language ( syntatically symillar to c ) used to write shaders
 
 3d libraries act as an abstraction layer to simplify 3d in web
 

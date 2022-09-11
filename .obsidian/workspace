@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "Notes/GLSL.md",
-            "mode": "preview",
+            "mode": "source",
             "backlinks": true,
             "source": false
           }
@@ -62,7 +62,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 321
+    "width": 145
   },
   "right": {
     "id": "ae62cce83a58d50d",
@@ -131,15 +131,15 @@
   },
   "active": "d5aef9bcf9ab30a1",
   "lastOpenFiles": [
+    "Templates/GLSL - template.md",
+    "Notes/GLSL.md",
     "Notes/Intro to 3D in web.md",
     "Assets/Pasted image 20220911203734.png",
     "Assets/Pasted image 20220911203334.png",
     "Assets/Pasted image 20220911203549.png",
     "Assets/Pasted image 20220911203721.png",
-    "Notes/GLSL.md",
     "Untitled.md",
     "Notes/MUJ/Sem-1/Understanding PC and Troubleshooting/UNIT 1 CPU/E content.md",
-    "PDFs/Unit 01 The CPU.pdf",
-    "2022-09-11.md"
+    "PDFs/Unit 01 The CPU.pdf"
   ]
 }

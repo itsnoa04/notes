@@ -64,3 +64,37 @@ float e = float(false) // e = 0.0
 Operators
 
 GLSL supports most of the common operators like
+
+```GLSL
++ - * / ++ += -= < > ...
+```
+
+Vectors and Matrices
+
+vectors and matrices are non primitive types
+
+Vectors
+
+vectors are similar to arrays in C
+
+there are 3 types of vectors in GLSL
+
+vec -> float vectors
+ivec -> integer vectors
+bvec -> boolean vectors
+
+it is suffixed by length of vector
+
+```GLSL
+vec2 vectorA = vec2(1.0 , 6.0)
+
+bvec4 vectorB = bvec4(true,true,false,true)
+
+vec3 vectorC = vec3(2.0) // shorthand for vec3(2.0,2.0,2.0)
+
+// we can also combine vectors to create a new vector 
+
+vec5 
+
+```
+
