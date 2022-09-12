@@ -7,8 +7,13 @@
         "id": "16d002871a60f3c9",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Notes/Vectors.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
         }
       }
     ],
@@ -36,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#1D_vector",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,6 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Notes/Vectors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Notes/Vectors.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +117,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Notes/Vectors.md"
+              }
             }
           }
         ]
@@ -122,12 +131,12 @@
   },
   "active": "e0314172579028d0",
   "lastOpenFiles": [
+    "Notes/GLSL.md",
+    "Notes/Intro to 3D in web.md",
     "2022-09-12.md",
     "ideas/social workout tracker app with github like tracking and open workouts.md",
     "Notes/Vectors.md",
-    "Notes/GLSL.md",
     "Templates/GLSL - template.md",
-    "Notes/Intro to 3D in web.md",
     "Assets/Pasted image 20220911203734.png",
     "Assets/Pasted image 20220911203334.png",
     "Assets/Pasted image 20220911203549.png",
