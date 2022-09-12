@@ -69,19 +69,19 @@ GLSL supports most of the common operators like
 + - * / ++ += -= < > ...
 ```
 
-Vectors and Matrices
+[[Vectors]] and Matrices
 
-vectors and matrices are non primitive types
+[[vectors]] and matrices are non primitive types
 
-Vectors
+[[Vectors]]
 
-vectors are similar to arrays in C
+[[vectors]] are similar to arrays in C
 
-there are 3 types of vectors in GLSL
+there are 3 types of [[vectors]] in GLSL
 
-vec -> float vectors
-ivec -> integer vectors
-bvec -> boolean vectors
+vec -> float [[vectors]]
+ivec -> integer [[vectors]]
+bvec -> boolean [[vectors]]
 
 it is suffixed by length of vector
 
