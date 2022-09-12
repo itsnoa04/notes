@@ -4,10 +4,10 @@
     "type": "split",
     "children": [
       {
-        "id": "d5aef9bcf9ab30a1",
+        "id": "16d002871a60f3c9",
         "type": "leaf",
         "state": {
-          "type": "memos_view",
+          "type": "empty",
           "state": {}
         }
       }
@@ -120,8 +120,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d5aef9bcf9ab30a1",
+  "active": "e0314172579028d0",
   "lastOpenFiles": [
+    "2022-09-12.md",
+    "ideas/social workout tracker app with github like tracking and open workouts.md",
     "Notes/Vectors.md",
     "Notes/GLSL.md",
     "Templates/GLSL - template.md",
@@ -129,8 +131,6 @@
     "Assets/Pasted image 20220911203734.png",
     "Assets/Pasted image 20220911203334.png",
     "Assets/Pasted image 20220911203549.png",
-    "Assets/Pasted image 20220911203721.png",
-    "Untitled.md",
-    "Notes/MUJ/Sem-1/Understanding PC and Troubleshooting/UNIT 1 CPU/E content.md"
+    "Assets/Pasted image 20220911203721.png"
   ]
 }

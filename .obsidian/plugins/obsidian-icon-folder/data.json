@@ -5,11 +5,11 @@
     "fontSize": 16,
     "iconColor": null,
     "recentlyUsedIcons": [
+      "RiLightbulbFlashLine",
       "RiCalendar2Line",
       "RiBookletFill",
       "RiImageFill",
-      "RiFilePdfLine",
-      "FeVideo"
+      "RiFilePdfLine"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [
