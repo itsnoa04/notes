@@ -7,13 +7,8 @@
         "id": "16d002871a60f3c9",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Notes/Static testing.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -78,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Static testing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +89,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Static testing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,9 +110,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Notes/Static testing.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -130,15 +121,15 @@
   },
   "active": "16d002871a60f3c9",
   "lastOpenFiles": [
+    "Notes/Javascript.md",
+    "Notes/React.md",
+    "Notes/Cypress.md",
     "Notes/Jest.md",
-    "Notes/Integration Testing.md",
-    "Notes/Unit testing.md",
-    "Notes/React testing library.md",
     "Notes/End to End testing.md",
-    "Notes/2 Dimentional Vectors.md",
     "Notes/1 Dimentional Vectors.md",
-    "Notes/Static testing.md",
-    "Notes/GLSL.md",
-    "Notes/Vectors.md"
+    "Notes/2 Dimentional Vectors.md",
+    "Notes/typescript.md",
+    "Notes/Unit testing.md",
+    "Notes/Static testing.md"
   ]
 }

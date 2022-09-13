@@ -1,6 +1,6 @@
 ![[Pasted image 20220913162704.png]]
 
-There are 4 different types of testing in react :
+There are 4 different types of testing in [[react]] :
 ie,
  [[End to End testing]]
  [[Unit testing]]

@@ -1,1 +1,1 @@
-a testing library use to test Javascript / Typescript applications
+a testing library use to test [[Javascript]]

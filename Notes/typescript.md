@@ -1,0 +1,1 @@
+a subset of [[javascript]] with type checking
