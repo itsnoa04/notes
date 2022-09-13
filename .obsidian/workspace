@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/2 Dimentional Vector.md",
+            "file": "Notes/Static testing.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -78,14 +78,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/2 Dimentional Vector.md",
+                "file": "Notes/Static testing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/2 Dimentional Vector.md",
+                "file": "Notes/Static testing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/2 Dimentional Vector.md"
+                "file": "Notes/Static testing.md"
               }
             }
           }
@@ -126,20 +126,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "16d002871a60f3c9",
   "lastOpenFiles": [
+    "Notes/Jest.md",
+    "Notes/Integration Testing.md",
+    "Notes/Unit testing.md",
+    "Notes/React testing library.md",
+    "Notes/End to End testing.md",
+    "Notes/2 Dimentional Vectors.md",
     "Notes/1 Dimentional Vectors.md",
-    "Notes/Vectors.md",
-    "Notes/2 Dimentional Vector.md",
+    "Notes/Static testing.md",
     "Notes/GLSL.md",
-    "Notes/Intro to 3D in web.md",
-    "2022-09-12.md",
-    "ideas/social workout tracker app with github like tracking and open workouts.md",
-    "Templates/GLSL - template.md",
-    "Assets/Pasted image 20220911203734.png",
-    "Assets/Pasted image 20220911203334.png"
+    "Notes/Vectors.md"
   ]
 }
