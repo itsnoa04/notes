@@ -1,0 +1,1 @@
+[[jest]] helperfunctions to chk things on the outputted dom

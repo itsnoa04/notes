@@ -119,17 +119,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "16d002871a60f3c9",
+  "active": "e0314172579028d0",
   "lastOpenFiles": [
+    "Notes/Jest.md",
     "Notes/Javascript.md",
+    "Notes/jest-dom.md",
     "Notes/React.md",
     "Notes/Cypress.md",
-    "Notes/Jest.md",
     "Notes/End to End testing.md",
     "Notes/1 Dimentional Vectors.md",
     "Notes/2 Dimentional Vectors.md",
     "Notes/typescript.md",
-    "Notes/Unit testing.md",
-    "Notes/Static testing.md"
+    "Notes/Unit testing.md"
   ]
 }
