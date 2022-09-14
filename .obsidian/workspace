@@ -7,8 +7,13 @@
         "id": "16d002871a60f3c9",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Notes/Array.reduce.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
         }
       }
     ],
@@ -73,6 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Notes/Array.reduce.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Notes/Array.reduce.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +117,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Notes/Array.reduce.md"
+              }
             }
           }
         ]
@@ -119,17 +128,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "e0314172579028d0",
+  "active": "16d002871a60f3c9",
   "lastOpenFiles": [
-    "Notes/Jest.md",
-    "Notes/Javascript.md",
-    "Notes/jest-dom.md",
-    "Notes/React.md",
-    "Notes/Cypress.md",
-    "Notes/End to End testing.md",
-    "Notes/1 Dimentional Vectors.md",
+    "Notes/GLSL.md",
     "Notes/2 Dimentional Vectors.md",
-    "Notes/typescript.md",
-    "Notes/Unit testing.md"
+    "Notes/1 Dimentional Vectors.md",
+    "Notes/testing in react.md",
+    "Notes/React testing library.md",
+    "Notes/End to End testing.md",
+    "Notes/Unit testing.md",
+    "Notes/Static testing.md",
+    "Notes/Jest.md",
+    "Notes/Javascript.md"
   ]
 }
