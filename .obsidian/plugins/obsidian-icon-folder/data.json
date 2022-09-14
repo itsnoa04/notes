@@ -38,5 +38,9 @@
   "Notes/MUJ/Sem-1/Understanding PC and Troubleshooting": {
     "iconName": null,
     "inheritanceIcon": "RiLightbulbLine"
+  },
+  "Notes/Array.reduce.md": {
+    "iconName": null,
+    "inheritanceIcon": "RiLightbulbFlashLine"
   }
 }

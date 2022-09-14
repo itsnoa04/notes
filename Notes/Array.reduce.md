@@ -1,4 +1,4 @@
-Array reduce is a Javascript array function that reduces an array to a single value useing a reducer function
+Array reduce is a [[Javascript]] array function that reduces an array to a single value useing a reducer function
 
 ```javascript
 
