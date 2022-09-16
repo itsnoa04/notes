@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "16d002871a60f3c9",
+        "id": "e801e821edde469f",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/port.md",
+            "file": "Notes/Memory.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/port.md",
+                "file": "Notes/Memory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/port.md",
+                "file": "Notes/Memory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/port.md"
+                "file": "Notes/Memory.md"
               }
             }
           }
@@ -126,19 +126,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 100
+    "width": 263.5,
+    "collapsed": true
   },
-  "active": "16d002871a60f3c9",
+  "active": "e801e821edde469f",
   "lastOpenFiles": [
-    "Notes/Client-Server Model.md",
-    "Notes/IP Address.md",
-    "Notes/Jest.md",
-    "Notes/Vectors.md",
-    "Notes/1 Dimentional Vectors.md",
-    "Notes/GLSL.md",
-    "Notes/2 Dimentional Vectors.md",
-    "Notes/Client.md",
-    "Notes/Server.md",
-    "Notes/Array.reduce.md"
+    "Notes/Databases.md",
+    "Notes/Memory.md",
+    "Notes/Disk.md",
+    "Notes/MUJ/Sem-1/Understanding PC and Troubleshooting/UNIT 1 CPU/E content.md",
+    "Notes/port.md",
+    "Notes/http.md",
+    "Notes/jest-dom.md",
+    "Notes/React.md",
+    "Notes/React testing library.md",
+    "Notes/Server.md"
   ]
 }

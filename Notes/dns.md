@@ -1,0 +1,1 @@
+It is an abbreviation for the entities and protocols involved in the translation of domain names to [[IP]] addresses. Typically, machines send a DNS query to a well-known entity, which responds with the [[ip address]] (or addresses) of the requested domain name.

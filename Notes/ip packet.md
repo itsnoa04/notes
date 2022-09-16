@@ -1,0 +1,3 @@
+Aside from bytes, an [[IP]] packet is the smallest unit used to describe data sent over [[IP]]. It is sometimes referred to more broadly as just a (network) packet. An [[IP]] packet is made up of the following components: 
+- an [[IP]] header, which contains the source and destination [[ip address]]es as well as other network-related information; and 
+- a payload, which is simply the data being sent over the network.

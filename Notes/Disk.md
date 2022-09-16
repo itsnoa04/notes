@@ -1,0 +1,2 @@
+Usually refers to either an HDD (hard disc drive) or an SSD (solid-state drive) (solid-state drive). Data written to disc will survive power outages and general machine crashes. Non-volatile storage is another term for disc.
+SSD is much faster than HDD (see latencies of accessing data from SSD and HDD), but it is also much more expensive in terms of money. As a result, HDD is typically used for data that is rarely accessed or updated but is stored for an extended period of time, whereas SSD is used for data that is frequently accessed and updated.

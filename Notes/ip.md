@@ -1,0 +1,1 @@
+Is an abbreviation for Internet Protocol. This network protocol specifies how almost all machine-to-machine communications in the world should take place. On top of IP, other protocols such as [[TCP]], UDP, and [[HTTP]] are built.
