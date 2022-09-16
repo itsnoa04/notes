@@ -7,13 +7,8 @@
         "id": "16d002871a60f3c9",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Notes/Array.reduce.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -78,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Array.reduce.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +89,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Array.reduce.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,9 +110,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Notes/Array.reduce.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -130,15 +121,15 @@
   },
   "active": "16d002871a60f3c9",
   "lastOpenFiles": [
-    "Notes/Javascript.md",
+    "Notes/Client-Server Model.md",
+    "Notes/Client.md",
+    "Notes/Server.md",
     "Notes/Array.reduce.md",
+    "Notes/Javascript.md",
     "Notes/2 Dimentional Vectors.md",
     "Notes/GLSL.md",
     "Notes/1 Dimentional Vectors.md",
     "Notes/testing in react.md",
-    "Notes/React testing library.md",
-    "Notes/End to End testing.md",
-    "Notes/Unit testing.md",
-    "Notes/Static testing.md"
+    "Notes/React testing library.md"
   ]
 }
