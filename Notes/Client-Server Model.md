@@ -1,1 +1,1 @@
-The paradigm by which modern systems are designed, which consists of [[Client | clients]] requesting data or service from [[Server |servers]] and [[Server |servers]] providing data or service to [[Client |clients]].
+The modern system design paradigm, which consists of [[Client |clients]] requesting data or services from [[Server |servers]] and [[Server |servers]] providing data or services to [[Client |clients]].
