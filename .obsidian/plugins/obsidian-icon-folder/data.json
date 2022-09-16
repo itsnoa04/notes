@@ -39,8 +39,5 @@
     "iconName": null,
     "inheritanceIcon": "RiLightbulbLine"
   },
-  "Notes/Array.reduce.md": {
-    "iconName": null,
-    "inheritanceIcon": "FeZapOff"
-  }
+  "Notes/Array.reduce.md": "RiLightbulbFlashLine"
 }
