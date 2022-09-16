@@ -1,1 +1,1 @@
-When requested data is found in cache
+When requested data is found in [[cache]]

@@ -1,0 +1,2 @@
+A tree with up to two child-nodes at each node.
+Because of the structure of a binary tree, many of its operations have logarithmic time complexity, making the binary tree an extremely appealing and widely used data structure.

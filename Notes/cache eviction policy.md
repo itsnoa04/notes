@@ -1,0 +1,1 @@
+The procedure for evicting or removing values from a [[cache]]. LRU (least-recently used), FIFO (first in, first out), and LFU are popular [[cache]] eviction policies (least-frequently used).

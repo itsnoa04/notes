@@ -7,13 +7,8 @@
         "id": "e801e821edde469f",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Notes/Cache Miss.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -78,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Cache Miss.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +89,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Cache Miss.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,9 +110,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Notes/Cache Miss.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -131,15 +122,15 @@
   },
   "active": "e801e821edde469f",
   "lastOpenFiles": [
-    "Notes/Cache Hit.md",
+    "Notes/array.md",
+    "Notes/Array.reduce.md",
+    "Notes/Balanced binary tree.md",
+    "Notes/Big O notation.md",
+    "Notes/Binary Tree.md",
+    "Notes/Acyclic graphs.md",
+    "Notes/Complexity Analysis.md",
     "Notes/Cache.md",
-    "Notes/Node.md",
-    "Notes/Instance.md",
-    "Notes/Host.md",
-    "Notes/Process.md",
-    "Notes/troughput.md",
-    "Notes/latency.md",
-    "Notes/Persistant Storage.md",
-    "Notes/Memory.md"
+    "Notes/content delivery network.md",
+    "Notes/cache eviction policy.md"
   ]
 }
