@@ -1,0 +1,1 @@
+A program that is currently running on a machine. You should always assume that any process may get terminated at any time in a sufficiently large system.

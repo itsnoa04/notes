@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Memory.md",
+            "file": "Notes/Cache Miss.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Memory.md",
+                "file": "Notes/Cache Miss.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Memory.md",
+                "file": "Notes/Cache Miss.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Memory.md"
+                "file": "Notes/Cache Miss.md"
               }
             }
           }
@@ -131,15 +131,15 @@
   },
   "active": "e801e821edde469f",
   "lastOpenFiles": [
-    "Notes/Databases.md",
-    "Notes/Memory.md",
-    "Notes/Disk.md",
-    "Notes/MUJ/Sem-1/Understanding PC and Troubleshooting/UNIT 1 CPU/E content.md",
-    "Notes/port.md",
-    "Notes/http.md",
-    "Notes/jest-dom.md",
-    "Notes/React.md",
-    "Notes/React testing library.md",
-    "Notes/Server.md"
+    "Notes/Cache Hit.md",
+    "Notes/Cache.md",
+    "Notes/Node.md",
+    "Notes/Instance.md",
+    "Notes/Host.md",
+    "Notes/Process.md",
+    "Notes/troughput.md",
+    "Notes/latency.md",
+    "Notes/Persistant Storage.md",
+    "Notes/Memory.md"
   ]
 }

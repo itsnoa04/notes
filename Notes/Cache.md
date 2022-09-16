@@ -1,0 +1,2 @@
+A piece of hardware or software that stores data in order to retrieve it faster than would otherwise be possible.
+Caches are frequently used to store network responses as well as the results of computationally intensive operations. It is important to note that data in a cache can become stale if the primary source of truth for that data (i.e., the primary database behind the cache) is updated but the cache is not.

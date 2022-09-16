@@ -1,0 +1,1 @@
+refers to [[Disk]], but in general it is any form of storage that persists if the [[process]] in chargre of manageing it dies.
