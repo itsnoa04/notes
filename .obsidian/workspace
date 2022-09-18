@@ -122,15 +122,15 @@
   },
   "active": "e801e821edde469f",
   "lastOpenFiles": [
+    "Notes/Cache Hit.md",
+    "Notes/Complete Binary Tree.md",
+    "Notes/Complexity Analysis.md",
+    "Notes/Circular Linked List.md",
+    "Notes/byte.md",
+    "Notes/bit.md",
     "Notes/array.md",
     "Notes/Array.reduce.md",
     "Notes/Balanced binary tree.md",
-    "Notes/Big O notation.md",
-    "Notes/Binary Tree.md",
-    "Notes/Acyclic graphs.md",
-    "Notes/Complexity Analysis.md",
-    "Notes/Cache.md",
-    "Notes/content delivery network.md",
-    "Notes/cache eviction policy.md"
+    "Notes/Big O notation.md"
   ]
 }

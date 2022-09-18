@@ -1,0 +1,2 @@
+Short for binary digit, a bit is a fundamental unit of information in Computer Science that represents a state with one of two values, typically 0 and 1.
+Any data stored in a computer is, at the most basic level, represented in bits.

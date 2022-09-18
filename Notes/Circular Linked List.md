@@ -1,0 +1,2 @@
+A linked list with no distinct head or tail because its "tail" points to its "head," forming a closed circle.
+There are two types of circular linked lists: singly circular linked lists and doubly circular linked lists.
